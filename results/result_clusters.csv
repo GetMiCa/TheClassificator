@@ -1,0 +1,253 @@
+Name,Average,Elements
+santa giulia_000,169800.0,10
+santa giulia_001,151400.0,5
+santa giulia_010,231500.0,2
+ponte lambro_000,124888.88888888889,9
+ponte lambro_001,120000,1
+ponte lambro_100,220000,1
+rogoredo_000,196000.0,5
+rogoredo_001,214000.0,8
+rogoredo_100,252500.0,2
+rogoredo_101,295000,1
+rogoredo_110,250000,1
+niguarda_000,247500.0,3
+niguarda_001,245000,1
+niguarda_010,198428.57142857142,14
+niguarda_011,230000,1
+niguarda_100,269000,1
+niguarda_101,270000,1
+prato centenaro_000,169000,1
+prato centenaro_001,170000.0,2
+prato centenaro_010,270000,1
+ca' granda_000,200000,1
+ca' granda_010,149000,1
+ca' granda_100,85000,1
+ca' granda_101,199666.66666666666,3
+istria_000,165500.0,4
+istria_001,270000.0,2
+bruzzano_000,149625.0,8
+bruzzano_001,130000.0,4
+bruzzano_100,298000,1
+bruzzano_101,290000,1
+affori_000,168617.02127659574,47
+affori_001,169321.42857142858,28
+affori_100,220250.0,4
+affori_101,223000.0,6
+affori_110,259000.0,5
+affori_111,265000,1
+greco - segnano_000,193428.57142857142,7
+greco - segnano_001,211257.14285714287,7
+greco - segnano_100,290000,1
+greco - segnano_101,187500.0,2
+precotto_000,175000,1
+bicocca_000,155000.0,2
+bicocca_001,242166.66666666666,6
+bignami - ponale_000,175000,1
+bignami - ponale_100,213000.0,7
+bignami - ponale_101,179000.0,2
+quartiere forlanini_000,170300.0,5
+quartiere forlanini_001,216111.11111111112,9
+quartiere forlanini_010,249000.0,4
+quartiere forlanini_011,245000,1
+quartiere forlanini_100,269000.0,2
+quartiere forlanini_101,300000,1
+viale ungheria - mecenate_000,202125.0,8
+viale ungheria - mecenate_001,174875.0,8
+viale ungheria - mecenate_010,209000,1
+viale ungheria - mecenate_100,222500.0,2
+_000,177000,1
+parco trotter_000,228000,1
+parco trotter_001,228000,1
+parco trotter_010,150392.85714285713,21
+parco trotter_011,182714.2857142857,35
+parco trotter_100,228000.0,3
+parco trotter_101,228000.0,4
+parco trotter_110,174500.0,2
+parco trotter_111,79000,1
+centrale_000,249000.0,2
+centrale_001,262000.0,3
+pasteur_000,237800.0,20
+pasteur_001,221093.81818181818,55
+pasteur_100,277000,1
+udine_000,206000.0,3
+rovereto_000,204577.77777777778,18
+rovereto_001,204461.53846153847,26
+rovereto_010,290000,1
+rovereto_100,297400.0,5
+rovereto_110,277000,1
+rovereto_111,229000.0,2
+casoretto_000,270000,1
+casoretto_001,257000.0,2
+buenos aires_000,258000.0,2
+cascina merlata - musocco_000,183459.8,10
+cascina merlata - musocco_001,179416.66666666666,12
+cascina merlata - musocco_010,211500.0,2
+cascina merlata - musocco_011,225000,1
+cascina merlata - musocco_100,288000,1
+cascina merlata - musocco_110,267000.0,4
+cascina merlata - musocco_111,247666.66666666666,3
+certosa_000,191317.94285714286,35
+certosa_001,189298.50746268657,67
+certosa_010,213800.0,5
+certosa_011,267600.0,5
+certosa_100,228800.0,5
+certosa_101,233750.0,4
+certosa_110,248333.33333333334,3
+certosa_111,286500.0,2
+gallaratese_000,299000,1
+gallaratese_001,290000.0,2
+gallaratese_100,190000.0,2
+gallaratese_101,95000,1
+quarto oggiaro_000,137480.0,25
+quarto oggiaro_001,156907.40740740742,27
+quarto oggiaro_010,175000,1
+quarto oggiaro_011,250000.0,2
+quarto oggiaro_100,124666.66666666667,3
+quarto oggiaro_101,204300.0,2
+quarto oggiaro_110,281500.0,2
+quarto oggiaro_111,289000,1
+vialba_000,128900.0,10
+vialba_001,127307.69230769231,13
+vialba_010,174000.0,2
+vialba_100,195000,1
+bovisa_000,176379.3103448276,29
+bovisa_001,186530.61224489796,49
+bovisa_010,266666.6666666667,3
+bovisa_011,299000.0,2
+bovisa_100,262250.0,4
+bovisa_101,297000,1
+bovisa_110,201500.0,2
+bovisa_111,207500.0,2
+roserio_000,187000,1
+roserio_010,195000,1
+roserio_100,150666.66666666666,3
+roserio_101,183250.0,4
+roserio_110,144055.55555555556,9
+roserio_111,138000,1
+comasina_000,155324.63157894736,19
+comasina_001,173500.0,6
+comasina_010,272500.0,2
+comasina_011,246333.33333333334,3
+dergano_000,178535.0,50
+dergano_001,182424.41860465117,43
+dergano_010,269000.0,2
+dergano_011,279000,1
+dergano_100,270000,1
+dergano_101,270000.0,2
+dergano_110,207000.0,2
+bovisasca_000,273666.6666666667,3
+bovisasca_010,228000,1
+bovisasca_100,149333.33333333334,3
+bovisasca_101,150666.66666666666,3
+bovisasca_110,270000,1
+farini_000,219000.0,3
+farini_001,233705.88235294117,17
+farini_100,249000,1
+tre castelli - faenza_000,180333.33333333334,30
+tre castelli - faenza_001,189066.66666666666,15
+tre castelli - faenza_010,248333.33333333334,3
+tre castelli - faenza_100,266600.0,5
+tre castelli - faenza_101,282500.0,2
+tre castelli - faenza_110,265571.4285714286,7
+tre castelli - faenza_111,250000,1
+cantalupa - san paolo_000,180000.0,2
+cantalupa - san paolo_001,246500.0,2
+cantalupa - san paolo_010,282333.3333333333,3
+cantalupa - san paolo_011,234500.0,2
+cantalupa - san paolo_100,206709.67741935485,31
+cantalupa - san paolo_101,193222.22222222222,9
+cantalupa - san paolo_110,259000.0,4
+cantalupa - san paolo_111,231666.66666666666,3
+pezzotti - meda_000,222333.33333333334,3
+pezzotti - meda_001,290000.0,2
+famagosta_000,200260.86956521738,23
+famagosta_001,195411.76470588235,17
+famagosta_010,274333.3333333333,9
+famagosta_011,60000,1
+famagosta_100,164900.0,2
+famagosta_110,129900,1
+barona_000,199750.0,8
+barona_001,206760.0,25
+barona_010,300000,1
+barona_100,249166.66666666666,6
+ghisolfa - mac mahon_000,203000.0,8
+ghisolfa - mac mahon_001,237250.0,16
+ghisolfa - mac mahon_010,215000,1
+ghisolfa - mac mahon_100,229000,1
+ghisolfa - mac mahon_110,269000,1
+ghisolfa - mac mahon_111,268000,1
+cenisio_000,235666.66666666666,12
+cenisio_001,255428.57142857142,7
+cenisio_100,249000,1
+portello - parco vittoria_000,240000.0,2
+portello - parco vittoria_001,277333.3333333333,3
+portello - parco vittoria_100,285000.0,2
+giambellino_000,201995.0,20
+giambellino_001,200847.8260869565,46
+giambellino_010,249000,1
+giambellino_100,299000.0,2
+giambellino_101,249500.0,2
+chiesa rossa_000,187666.66666666666,6
+chiesa rossa_001,135000,1
+cermenate - abbiategrasso_000,244733.33333333334,3
+cermenate - abbiategrasso_001,236000.0,3
+zara_000,196800.0,5
+zara_001,245000.0,2
+inganni_000,179666.66666666666,3
+inganni_001,198000.0,12
+inganni_010,245000.0,2
+inganni_011,285000,1
+inganni_100,245000,1
+inganni_110,250000,1
+sempione_000,274666.6666666667,3
+isola_000,234428.57142857142,7
+isola_001,286000,1
+navigli - darsena_000,289000,1
+corvetto_000,188643.67816091955,87
+corvetto_001,198039.21568627452,51
+corvetto_010,230666.66666666666,6
+corvetto_011,255500.0,4
+corvetto_100,285000.0,2
+corvetto_110,279000,1
+corvetto_111,179666.66666666666,3
+bologna - sulmona_000,227000.0,2
+bologna - sulmona_001,252000.0,2
+paolo sarpi_000,218000.0,7
+paolo sarpi_001,230000.0,4
+arco della pace_000,274000.0,2
+molise - cuoco_000,299000,1
+molise - cuoco_010,233333.33333333334,3
+molise - cuoco_100,280000,1
+martini - insubria_000,255000.0,3
+martini - insubria_001,179000.0,3
+lodi - brenta_000,229500.0,2
+lodi - brenta_001,242333.33333333334,3
+lodi - brenta_100,300000,1
+cadore_000,290000,1
+porta vittoria_000,205000,1
+bande nere_000,225750.0,12
+bande nere_001,248583.33333333334,12
+bande nere_100,79900,1
+piazzale siena_000,197000,1
+piazzale siena_010,230000,1
+piazzale siena_100,220108.26315789475,19
+piazzale siena_101,236136.36363636365,22
+piazzale siena_110,169000,1
+piazzale siena_111,285000,1
+gambara_000,250578.94736842104,19
+gambara_001,224875.0,8
+gambara_100,285000,1
+gambara_101,265000.0,5
+primaticcio_000,236777.77777777778,9
+primaticcio_001,181714.2857142857,7
+primaticcio_100,210000,1
+primaticcio_101,250000,1
+tripoli - soderini_000,257500.0,2
+lorenteggio_000,203142.85714285713,7
+lorenteggio_001,223800.0,5
+bisceglie_000,206460,1
+bisceglie_100,300000,1
+san siro_000,290000,1
+san siro_001,250000,1
+frua_000,280000,1
+baggio_000,210000,1

@@ -1,0 +1,1730 @@
+Cluster,Bathrooms,Surface,Floor,Price
+santa giulia_000,1,52,100,135000
+santa giulia_000,1,65,3,160000
+santa giulia_000,1,50,100,149000
+santa giulia_000,1,80,4,249000
+santa giulia_000,1,55,2,110000
+santa giulia_000,1,70,3,148000
+santa giulia_000,1,30,3,113000
+santa giulia_000,1,75,4,125000
+santa giulia_000,1,85,4,290000
+santa giulia_000,1,44,5,219000
+santa giulia_001,1,50,0,139000
+santa giulia_001,1,60,1,141000
+santa giulia_001,1,86,1,160000
+santa giulia_001,1,57,0,148000
+santa giulia_001,1,65,1,169000
+santa giulia_010,1,117,5,265000
+santa giulia_010,1,140,5,198000
+ponte lambro_000,1,60,3,120000
+ponte lambro_000,1,52,2,112000
+ponte lambro_000,1,53,3,140000
+ponte lambro_000,1,75,2,149000
+ponte lambro_000,1,60,3,139000
+ponte lambro_000,1,52,2,119000
+ponte lambro_000,1,70,3,100000
+ponte lambro_000,1,60,2,115000
+ponte lambro_000,1,52,2,130000
+ponte lambro_001,1,66,-1 - 1,120000
+ponte lambro_100,2,80,4,220000
+rogoredo_000,1,53,1,110000
+rogoredo_000,1,61,-1 - 1,180000
+rogoredo_000,1,75,1,210000
+rogoredo_000,1,80,1,230000
+rogoredo_000,1,87,1,250000
+rogoredo_001,1,78,5,239000
+rogoredo_001,1,70,2,209000
+rogoredo_001,1,60,100,225000
+rogoredo_001,1,85,100,265000
+rogoredo_001,1,55,100,140000
+rogoredo_001,1,78,5,239000
+rogoredo_001,1,55,3,175000
+rogoredo_001,1,70,2,220000
+rogoredo_100,2,85,1,245000
+rogoredo_100,2,90,1,260000
+rogoredo_101,2,80,6,295000
+rogoredo_110,2,100,1,250000
+niguarda_000,1,115,-1 - 3,187500
+niguarda_000,1,100,0,295000
+niguarda_000,1,96,-1 - 1,260000
+niguarda_001,1,105,2,245000
+niguarda_010,1,75,100,215000
+niguarda_010,1,78,2,220000
+niguarda_010,1,60,100,189000
+niguarda_010,1,84,4,260000
+niguarda_010,1,61,3,265000
+niguarda_010,1,73,2,200000
+niguarda_010,1,75,100,229000
+niguarda_010,1,60,3,165000
+niguarda_010,1,55,2,184000
+niguarda_010,1,60,2,169000
+niguarda_010,1,85,2,165000
+niguarda_010,1,52,2,149000
+niguarda_010,1,68,5,169000
+niguarda_010,1,73,4,199000
+niguarda_011,1,76,1,230000
+niguarda_100,2,65,0,269000
+niguarda_101,2,70,3,270000
+prato centenaro_000,1,70,0,169000
+prato centenaro_001,1,60,3,158000
+prato centenaro_001,1,68,100,182000
+prato centenaro_010,1,98,4,270000
+ca' granda_000,2,113,0,200000
+ca' granda_010,2,83,0,149000
+ca' granda_100,1,30,1,85000
+ca' granda_101,1,60,100,260000
+ca' granda_101,1,30,100,110000
+ca' granda_101,1,70,2,229000
+istria_000,1,41,3,139000
+istria_000,1,65,100,218000
+istria_000,1,44,100,139000
+istria_000,1,55,100,166000
+istria_001,1,90,0,270000
+istria_001,1,90,0,270000
+bruzzano_000,1,85,2,210000
+bruzzano_000,1,85,2,200000
+bruzzano_000,1,30,2,85000
+bruzzano_000,1,75,2,170000
+bruzzano_000,1,61,2,120000
+bruzzano_000,1,55,100,139000
+bruzzano_000,1,75,3,139000
+bruzzano_000,1,60,2,134000
+bruzzano_001,1,55,0,180000
+bruzzano_001,1,46,0,110000
+bruzzano_001,1,40,0,95000
+bruzzano_001,1,75,1,135000
+bruzzano_100,2,98,1,298000
+bruzzano_101,2,95,2,290000
+affori_000,1,70,100,250000
+affori_000,1,50,2,170000
+affori_000,1,35,2,109000
+affori_000,1,65,2,120000
+affori_000,1,36,4,85000
+affori_000,1,60,2,168000
+affori_000,1,48,100,150000
+affori_000,1,55,2,159000
+affori_000,1,50,6,235000
+affori_000,1,40,2,100000
+affori_000,1,90,100,190000
+affori_000,1,58,2,150000
+affori_000,1,90,100,190000
+affori_000,1,35,100,105000
+affori_000,1,75,4,145000
+affori_000,1,25,3,89000
+affori_000,1,81,7,207000
+affori_000,1,40,5,200000
+affori_000,1,75,5,235000
+affori_000,1,70,3,185000
+affori_000,1,90,3,299000
+affori_000,1,75,3,180000
+affori_000,1,65,2,160000
+affori_000,1,45,2,135000
+affori_000,1,55,3,159000
+affori_000,1,56,100,250000
+affori_000,1,45,2,139000
+affori_000,1,50,100,125000
+affori_000,1,70,7,255000
+affori_000,1,90,100,260000
+affori_000,1,58,4,135000
+affori_000,1,46,3,125000
+affori_000,1,76,3,185000
+affori_000,1,55,100,129000
+affori_000,1,40,2,105000
+affori_000,1,55,3,149000
+affori_000,1,60,2,139000
+affori_000,1,50,2,139000
+affori_000,1,45,2,159000
+affori_000,1,90,2,188000
+affori_000,1,90,7,190000
+affori_000,1,55,2,115000
+affori_000,1,75,3,229000
+affori_000,1,45,2,189000
+affori_000,1,50,3,155000
+affori_000,1,47,2,185000
+affori_000,1,70,3,205000
+affori_001,1,70,0,190000
+affori_001,1,50,1,149000
+affori_001,1,42,1,180000
+affori_001,1,50,0,145000
+affori_001,1,59,1,250000
+affori_001,1,45,1,125000
+affori_001,1,70,0,265000
+affori_001,1,60,0,180000
+affori_001,1,70,1,196000
+affori_001,1,80,1,150000
+affori_001,1,55,1,255000
+affori_001,1,51,0,145000
+affori_001,1,70,1,149000
+affori_001,1,50,1,150000
+affori_001,1,55,1,229000
+affori_001,1,35,1,105000
+affori_001,1,40,0,115000
+affori_001,1,50,1,145000
+affori_001,1,50,-1 - 1,125000
+affori_001,1,50,1,149000
+affori_001,1,50,0,152000
+affori_001,1,67,0,265000
+affori_001,1,40,1,109000
+affori_001,1,55,0,129000
+affori_001,1,50,1,149000
+affori_001,1,65,0,180000
+affori_001,1,65,0,180000
+affori_001,1,65,0,180000
+affori_100,2,90,4,259000
+affori_100,2,80,3,175000
+affori_100,2,81,7,207000
+affori_100,2,85,2,240000
+affori_101,2,65,-1,148000
+affori_101,2,63,0,148000
+affori_101,2,90,-1 - 0,259000
+affori_101,2,70,0,265000
+affori_101,2,90,0,259000
+affori_101,2,80,0,259000
+affori_110,2,110,0,259000
+affori_110,2,100,0,259000
+affori_110,2,100,-1 - 0,259000
+affori_110,2,100,0,259000
+affori_110,2,100,0,259000
+affori_111,2,95,4,265000
+greco - segnano_000,1,50,1,270000
+greco - segnano_000,1,35,0,123000
+greco - segnano_000,1,43,0,185000
+greco - segnano_000,1,44,0,190000
+greco - segnano_000,1,57,1,220000
+greco - segnano_000,1,61,0,268000
+greco - segnano_000,1,30,1,98000
+greco - segnano_001,1,45,2,139000
+greco - segnano_001,1,55,4,239000
+greco - segnano_001,1,65,2,281700
+greco - segnano_001,1,65,2,159000
+greco - segnano_001,1,51,3,155000
+greco - segnano_001,1,70,2,265000
+greco - segnano_001,1,55,2,240100
+greco - segnano_100,2,77,3,290000
+greco - segnano_101,2,44,0,190000
+greco - segnano_101,2,43,0,185000
+precotto_000,2,60,1,175000
+bicocca_000,1,55,1,180000
+bicocca_000,1,45,0,130000
+bicocca_001,1,73,2,270000
+bicocca_001,1,50,4,185000
+bicocca_001,1,65,100,208000
+bicocca_001,1,71,2,260000
+bicocca_001,1,90,4,265000
+bicocca_001,1,85,4,265000
+bignami - ponale_000,2,69,-1 - 0,175000
+bignami - ponale_100,1,70,3,180000
+bignami - ponale_100,1,75,4,168000
+bignami - ponale_100,1,65,5,230000
+bignami - ponale_100,1,58,3,210000
+bignami - ponale_100,1,75,2,235000
+bignami - ponale_100,1,75,2,220000
+bignami - ponale_100,1,67,3,248000
+bignami - ponale_101,1,65,0,178000
+bignami - ponale_101,1,55,0,180000
+quartiere forlanini_000,1,76,-1 - 3,185000
+quartiere forlanini_000,1,57,1,159500
+quartiere forlanini_000,1,78,1,169000
+quartiere forlanini_000,1,63,-1 - 1,169000
+quartiere forlanini_000,1,61,-1 - 4,169000
+quartiere forlanini_001,1,35,6,138000
+quartiere forlanini_001,1,90,8,259000
+quartiere forlanini_001,1,90,2,249000
+quartiere forlanini_001,1,67,100,180000
+quartiere forlanini_001,1,90,100,200000
+quartiere forlanini_001,1,89,3,279000
+quartiere forlanini_001,1,50,4,155000
+quartiere forlanini_001,1,45,3,195000
+quartiere forlanini_001,1,90,4,290000
+quartiere forlanini_010,1,117,-1 - 3,219000
+quartiere forlanini_010,1,92,-1 - 3,240000
+quartiere forlanini_010,1,91,-1 - 2,252000
+quartiere forlanini_010,1,106,-1 - 100,285000
+quartiere forlanini_011,1,91,100,245000
+quartiere forlanini_100,2,119,-1 - 3,269000
+quartiere forlanini_100,2,120,1,269000
+quartiere forlanini_101,2,104,100,300000
+viale ungheria - mecenate_000,1,77,3,285000
+viale ungheria - mecenate_000,1,90,2,185000
+viale ungheria - mecenate_000,1,70,4,285000
+viale ungheria - mecenate_000,1,55,100,103000
+viale ungheria - mecenate_000,1,84,3,200000
+viale ungheria - mecenate_000,1,69,2,155000
+viale ungheria - mecenate_000,1,65,3,185000
+viale ungheria - mecenate_000,1,63,2,219000
+viale ungheria - mecenate_001,1,79,-1 - 3,225000
+viale ungheria - mecenate_001,1,60,1,131000
+viale ungheria - mecenate_001,1,70,1,145000
+viale ungheria - mecenate_001,1,43,1,139000
+viale ungheria - mecenate_001,1,82,0,195000
+viale ungheria - mecenate_001,1,82,-1 - 2,175000
+viale ungheria - mecenate_001,1,81,-1 - 5,199000
+viale ungheria - mecenate_001,1,45,1,190000
+viale ungheria - mecenate_010,1,100,4,209000
+viale ungheria - mecenate_100,2,80,2,175000
+viale ungheria - mecenate_100,2,84,4,270000
+_000,1,53,1,177000
+parco trotter_000,1,125,-1 - 100,228000
+parco trotter_001,1,125,100,228000
+parco trotter_010,1,32,0,58000
+parco trotter_010,1,40,1,189000
+parco trotter_010,1,60,0,139000
+parco trotter_010,1,65,1,180000
+parco trotter_010,1,24,1,122000
+parco trotter_010,1,45,0,169000
+parco trotter_010,1,45,0,169000
+parco trotter_010,1,46,0,138000
+parco trotter_010,1,47,-1 - 2,170000
+parco trotter_010,1,20,1,69000
+parco trotter_010,1,71,1,255000
+parco trotter_010,1,30,1,104000
+parco trotter_010,1,25,0,80000
+parco trotter_010,1,67,0,198000
+parco trotter_010,1,50,1,225000
+parco trotter_010,1,50,1,115000
+parco trotter_010,1,24,1,20250
+parco trotter_010,1,55,0,270000
+parco trotter_010,1,43,1,149000
+parco trotter_010,1,43,1,150000
+parco trotter_010,1,50,1,189000
+parco trotter_011,1,45,3,209000
+parco trotter_011,1,45,4,210000
+parco trotter_011,1,40,3,126000
+parco trotter_011,1,63,4,239000
+parco trotter_011,1,45,3,230000
+parco trotter_011,1,55,2,115000
+parco trotter_011,1,50,3,155000
+parco trotter_011,1,68,2,170000
+parco trotter_011,1,70,4,140000
+parco trotter_011,1,30,5,80000
+parco trotter_011,1,68,2,245000
+parco trotter_011,1,50,7,199000
+parco trotter_011,1,81,3,240000
+parco trotter_011,1,50,2,139000
+parco trotter_011,1,40,2,199000
+parco trotter_011,1,54,100,228000
+parco trotter_011,1,59,3,230000
+parco trotter_011,1,48,4,115000
+parco trotter_011,1,50,2,220000
+parco trotter_011,1,47,2,170000
+parco trotter_011,1,50,3,119000
+parco trotter_011,1,25,4,89000
+parco trotter_011,1,27,2,89000
+parco trotter_011,1,45,3,180000
+parco trotter_011,1,50,100,175000
+parco trotter_011,1,75,100,215000
+parco trotter_011,1,80,3,299000
+parco trotter_011,1,70,4,126000
+parco trotter_011,1,64,2,270000
+parco trotter_011,1,42,6,144000
+parco trotter_011,1,44,2,210000
+parco trotter_011,1,51,4,190000
+parco trotter_011,1,63,3,235000
+parco trotter_011,1,45,3,185000
+parco trotter_011,1,45,3,210000
+parco trotter_100,2,125,100,228000
+parco trotter_100,2,125,100,228000
+parco trotter_100,2,125,100,228000
+parco trotter_101,2,130,0,228000
+parco trotter_101,2,125,1,228000
+parco trotter_101,2,125,-1 - 100,228000
+parco trotter_101,2,125,0,228000
+parco trotter_110,3,44,2,139000
+parco trotter_110,2,50,2,210000
+parco trotter_111,2,25,1,79000
+centrale_000,1,47,0,248000
+centrale_000,1,50,1,250000
+centrale_001,1,45,6,250000
+centrale_001,1,65,3,288000
+centrale_001,1,47,100,248000
+pasteur_000,1,52,1,229000
+pasteur_000,1,65,1,300000
+pasteur_000,1,50,1,229000
+pasteur_000,1,55,1,300000
+pasteur_000,1,50,1,219000
+pasteur_000,1,52,0,198000
+pasteur_000,1,55,1,300000
+pasteur_000,1,55,0,198000
+pasteur_000,1,65,-1,195000
+pasteur_000,1,71,1,270000
+pasteur_000,1,52,1,290000
+pasteur_000,1,48,1,143000
+pasteur_000,1,70,1,270000
+pasteur_000,1,45,0,248000
+pasteur_000,1,64,-1,195000
+pasteur_000,1,40,0,210000
+pasteur_000,1,85,1,285000
+pasteur_000,1,80,0 - 100,288000
+pasteur_000,1,50,0,189000
+pasteur_000,1,70,1,200000
+pasteur_001,1,50,2,275000
+pasteur_001,1,44,100,260000
+pasteur_001,1,50,100,195000
+pasteur_001,1,30,5,90000
+pasteur_001,1,70,6,295000
+pasteur_001,1,45,3,206000
+pasteur_001,1,80,3,289000
+pasteur_001,1,42,100,170000
+pasteur_001,1,55,100,198000
+pasteur_001,1,75,3,270000
+pasteur_001,1,60,2,219000
+pasteur_001,1,60,2,268000
+pasteur_001,1,55,2,169000
+pasteur_001,1,50,3,270000
+pasteur_001,1,45,3,206000
+pasteur_001,1,35,4,160000
+pasteur_001,1,66,2,200000
+pasteur_001,1,35,2,148000
+pasteur_001,1,47,3,132660
+pasteur_001,1,50,2,270000
+pasteur_001,1,45,3,180000
+pasteur_001,1,68,3,295000
+pasteur_001,1,78,2,290000
+pasteur_001,1,40,100,238000
+pasteur_001,1,40,2,160000
+pasteur_001,1,65,100,288000
+pasteur_001,1,66,2,295000
+pasteur_001,1,47,2,146000
+pasteur_001,1,40,6,250000
+pasteur_001,1,45,2,198000
+pasteur_001,1,39,4,127500
+pasteur_001,1,42,4,138000
+pasteur_001,1,45,4,158000
+pasteur_001,1,45,2,248000
+pasteur_001,1,47,4,155000
+pasteur_001,1,45,4,175000
+pasteur_001,1,44,3,195000
+pasteur_001,1,50,2,195000
+pasteur_001,1,52,100,198000
+pasteur_001,1,58,4,275000
+pasteur_001,1,73,2,269000
+pasteur_001,1,60,7,280000
+pasteur_001,1,47,2,260000
+pasteur_001,1,45,3,206000
+pasteur_001,1,50,100,199000
+pasteur_001,1,60,2,290000
+pasteur_001,1,30,4,125000
+pasteur_001,1,73,100,270000
+pasteur_001,1,58,3,298000
+pasteur_001,1,55,100,268000
+pasteur_001,1,40,2,219000
+pasteur_001,1,47,100,248000
+pasteur_001,1,65,100,288000
+pasteur_001,1,45,2,195000
+pasteur_001,1,45,6,250000
+pasteur_100,2,75,0 - 1,277000
+udine_000,1,50,7,199000
+udine_000,1,50,7,199000
+udine_000,1,55,7,220000
+rovereto_000,1,50,1,200000
+rovereto_000,1,42,1,200000
+rovereto_000,1,48,0,130000
+rovereto_000,1,44,0,155000
+rovereto_000,1,53,1,249000
+rovereto_000,1,40,1,225000
+rovereto_000,1,45,0,195000
+rovereto_000,1,59,0,249000
+rovereto_000,1,52,1,235000
+rovereto_000,1,50,1,170000
+rovereto_000,1,37,0,155000
+rovereto_000,1,45,1,275000
+rovereto_000,1,73,1,70200
+rovereto_000,1,51,-1 - 3,260000
+rovereto_000,1,44,1,200000
+rovereto_000,1,72,1,270000
+rovereto_000,1,51,-1 - 1,195000
+rovereto_000,1,55,1,249200
+rovereto_001,1,43,100,178000
+rovereto_001,1,40,4,99000
+rovereto_001,1,15,3,68000
+rovereto_001,1,70,5,185000
+rovereto_001,1,47,2,230000
+rovereto_001,1,70,3,275000
+rovereto_001,1,55,100,200000
+rovereto_001,1,60,2,232000
+rovereto_001,1,50,2,229000
+rovereto_001,1,70,2,290000
+rovereto_001,1,44,100,160000
+rovereto_001,1,25,4,109000
+rovereto_001,1,52,100,225000
+rovereto_001,1,45,100,225000
+rovereto_001,1,65,3,218000
+rovereto_001,1,55,100,255000
+rovereto_001,1,30,4,140000
+rovereto_001,1,47,2,149000
+rovereto_001,1,55,4,200000
+rovereto_001,1,60,2,232000
+rovereto_001,1,25,100,178000
+rovereto_001,1,54,2,225000
+rovereto_001,1,55,3,230000
+rovereto_001,1,70,2,300000
+rovereto_001,1,60,2,229000
+rovereto_001,1,50,3,255000
+rovereto_010,1,100,0,290000
+rovereto_100,2,118,-1,295000
+rovereto_100,2,100,0,298000
+rovereto_100,2,100,0,298000
+rovereto_100,2,100,0,298000
+rovereto_100,2,100,0,298000
+rovereto_110,2,75,100 - 1,277000
+rovereto_111,2,52,-1 - 0,210000
+rovereto_111,2,90,0,248000
+casoretto_000,1,58,6,270000
+casoretto_001,1,65,0,249000
+casoretto_001,1,65,1,265000
+buenos aires_000,2,90,0,268000
+buenos aires_000,2,90,0,248000
+cascina merlata - musocco_000,1,47,1,135000
+cascina merlata - musocco_000,1,53,0,175000
+cascina merlata - musocco_000,1,59,0,180000
+cascina merlata - musocco_000,1,66,0,196518
+cascina merlata - musocco_000,1,60,0,196935
+cascina merlata - musocco_000,1,58,0,186145
+cascina merlata - musocco_000,1,70,1,165000
+cascina merlata - musocco_000,1,45,1,145000
+cascina merlata - musocco_000,1,78,1,225000
+cascina merlata - musocco_000,1,82,1,230000
+cascina merlata - musocco_001,1,85,8,230000
+cascina merlata - musocco_001,1,44,2,147000
+cascina merlata - musocco_001,1,50,3,235000
+cascina merlata - musocco_001,1,77,9,195000
+cascina merlata - musocco_001,1,41,100,102000
+cascina merlata - musocco_001,1,80,2,169000
+cascina merlata - musocco_001,1,55,2,155000
+cascina merlata - musocco_001,1,78,3,235000
+cascina merlata - musocco_001,1,35,100,105000
+cascina merlata - musocco_001,1,65,2,240000
+cascina merlata - musocco_001,1,59,3,190000
+cascina merlata - musocco_001,1,60,100,150000
+cascina merlata - musocco_010,1,110,0,228000
+cascina merlata - musocco_010,1,130,1,195000
+cascina merlata - musocco_011,1,91,100,225000
+cascina merlata - musocco_100,2,90,1,288000
+cascina merlata - musocco_110,2,113,1,300000
+cascina merlata - musocco_110,2,98,1,294000
+cascina merlata - musocco_110,2,110,0,228000
+cascina merlata - musocco_110,2,115,-1 - 2,246000
+cascina merlata - musocco_111,2,107,2,280000
+cascina merlata - musocco_111,2,94,8,213000
+cascina merlata - musocco_111,2,94,100,250000
+certosa_000,1,73,1,276000
+certosa_000,1,65,0,158000
+certosa_000,1,60,1,130000
+certosa_000,1,73,1,198000
+certosa_000,1,51,1,220000
+certosa_000,1,61,1,225000
+certosa_000,1,50,1,138000
+certosa_000,1,72,1,230000
+certosa_000,1,55,1,170000
+certosa_000,1,55,0,169000
+certosa_000,1,33,0,95000
+certosa_000,1,65,1,187000
+certosa_000,1,66,1,245000
+certosa_000,1,75,1,140000
+certosa_000,1,65,1,230128
+certosa_000,1,75,1,220000
+certosa_000,1,50,1,165000
+certosa_000,1,55,1,248000
+certosa_000,1,55,1,178000
+certosa_000,1,80,1,249000
+certosa_000,1,65,0,160000
+certosa_000,1,53,0 - 8,210000
+certosa_000,1,61,0 - 4,189000
+certosa_000,1,65,1,195000
+certosa_000,1,50,1,128000
+certosa_000,1,45,1,180000
+certosa_000,1,40,0,165000
+certosa_000,1,48,1 - 2,142000
+certosa_000,1,35,1,115000
+certosa_000,1,75,1,245000
+certosa_000,1,90,1,225000
+certosa_000,1,90,1,270000
+certosa_000,1,48,1 - 2,142000
+certosa_000,1,88,1,249000
+certosa_000,1,75,0,210000
+certosa_001,1,74,2,285000
+certosa_001,1,65,3,205000
+certosa_001,1,45,4,135000
+certosa_001,1,50,4,185000
+certosa_001,1,70,3,160000
+certosa_001,1,70,3,269000
+certosa_001,1,43,3,127000
+certosa_001,1,71,100,125000
+certosa_001,1,45,4,185000
+certosa_001,1,47,4,215000
+certosa_001,1,69,3,159000
+certosa_001,1,45,5,170000
+certosa_001,1,34,100,115000
+certosa_001,1,75,100,169000
+certosa_001,1,50,5,195000
+certosa_001,1,80,2,270000
+certosa_001,1,45,4,185000
+certosa_001,1,60,4,185000
+certosa_001,1,65,2,178000
+certosa_001,1,65,4,144000
+certosa_001,1,70,3,187000
+certosa_001,1,74,2,285000
+certosa_001,1,40,4,215000
+certosa_001,1,80,3,188000
+certosa_001,1,48,2,165000
+certosa_001,1,75,2,198000
+certosa_001,1,80,2,270000
+certosa_001,1,60,3,185000
+certosa_001,1,30,3,108000
+certosa_001,1,27,2,100000
+certosa_001,1,30,3,85000
+certosa_001,1,85,2,270000
+certosa_001,1,55,2,145000
+certosa_001,1,56,2,149000
+certosa_001,1,90,2,288000
+certosa_001,1,40,2,85000
+certosa_001,1,60,4,188000
+certosa_001,1,55,2,145000
+certosa_001,1,60,100,189000
+certosa_001,1,34,100,99000
+certosa_001,1,75,2,229000
+certosa_001,1,52,2,138000
+certosa_001,1,70,2,188000
+certosa_001,1,63,2,210000
+certosa_001,1,75,2,270000
+certosa_001,1,50,100,175000
+certosa_001,1,70,4,250000
+certosa_001,1,55,100,159000
+certosa_001,1,70,2,190000
+certosa_001,1,80,2,260000
+certosa_001,1,80,2,260000
+certosa_001,1,55,3,150000
+certosa_001,1,40,3,185000
+certosa_001,1,50,2,145000
+certosa_001,1,70,5,169000
+certosa_001,1,65,4,285000
+certosa_001,1,71,3,250000
+certosa_001,1,51,2,169000
+certosa_001,1,74,8,245000
+certosa_001,1,60,100,163000
+certosa_001,1,80,4,246000
+certosa_001,1,65,4,221000
+certosa_001,1,85,3,250000
+certosa_001,1,60,2,169000
+certosa_001,1,90,5,288000
+certosa_001,1,25,3,99000
+certosa_001,1,45,4,115000
+certosa_010,1,105,2,225000
+certosa_010,1,100,6,210000
+certosa_010,1,100,3,209000
+certosa_010,1,95,100,215000
+certosa_010,1,95,2,210000
+certosa_011,1,130,0,250000
+certosa_011,1,105,1,240000
+certosa_011,1,95,1,295000
+certosa_011,1,95,1,295000
+certosa_011,1,100,1,258000
+certosa_100,2,86,2,240000
+certosa_100,6,40,2,195000
+certosa_100,2,75,3,199000
+certosa_100,2,73,100,245000
+certosa_100,2,85,4,265000
+certosa_101,2,55,0,75000
+certosa_101,2,90,1,300000
+certosa_101,2,80,0,260000
+certosa_101,2,90,1,300000
+certosa_110,2,100,2,240000
+certosa_110,2,95,100,295000
+certosa_110,2,95,2,210000
+certosa_111,2,110,1,278000
+certosa_111,2,155,-1,295000
+gallaratese_000,2,105,4,299000
+gallaratese_001,2,105,-1 - 2,285000
+gallaratese_001,2,112,-1 - 1,295000
+gallaratese_100,1,70,1,175000
+gallaratese_100,1,75,-1 - 1,205000
+gallaratese_101,1,40,3,95000
+quarto oggiaro_000,1,70,1,160000
+quarto oggiaro_000,1,50,1,140000
+quarto oggiaro_000,1,70,1,160000
+quarto oggiaro_000,1,50,1,140000
+quarto oggiaro_000,1,50,1,140000
+quarto oggiaro_000,1,38,0,40000
+quarto oggiaro_000,1,66,1,55000
+quarto oggiaro_000,1,50,1,140000
+quarto oggiaro_000,1,70,1,160000
+quarto oggiaro_000,1,67,-1 - 3,130000
+quarto oggiaro_000,1,70,1,160000
+quarto oggiaro_000,1,50,1,140000
+quarto oggiaro_000,1,70,1,160000
+quarto oggiaro_000,1,40,0,79000
+quarto oggiaro_000,1,48,1,89000
+quarto oggiaro_000,1,76,1,220000
+quarto oggiaro_000,1,55,1,145000
+quarto oggiaro_000,1,30,0,58000
+quarto oggiaro_000,1,88,1,180000
+quarto oggiaro_000,1,70,1,160000
+quarto oggiaro_000,1,50,1,140000
+quarto oggiaro_000,1,70,0,174000
+quarto oggiaro_000,1,45,0,129000
+quarto oggiaro_000,1,88,1,189000
+quarto oggiaro_000,1,77,1,149000
+quarto oggiaro_001,1,90,4,125000
+quarto oggiaro_001,1,70,2,160000
+quarto oggiaro_001,1,50,2,140000
+quarto oggiaro_001,1,50,2,140000
+quarto oggiaro_001,1,70,2,160000
+quarto oggiaro_001,1,80,3,139000
+quarto oggiaro_001,1,85,5,175000
+quarto oggiaro_001,1,55,2,109000
+quarto oggiaro_001,1,77,3,160000
+quarto oggiaro_001,1,72,7,125000
+quarto oggiaro_001,1,62,2,130000
+quarto oggiaro_001,1,85,3,149000
+quarto oggiaro_001,1,80,2,190000
+quarto oggiaro_001,1,83,2,168000
+quarto oggiaro_001,1,85,3,149000
+quarto oggiaro_001,1,77,100,138000
+quarto oggiaro_001,1,74,5,226900
+quarto oggiaro_001,1,74,9,257600
+quarto oggiaro_001,1,69,6,170000
+quarto oggiaro_001,1,84,100,215000
+quarto oggiaro_001,1,56,100,112000
+quarto oggiaro_001,1,80,2,165000
+quarto oggiaro_001,1,87,100,158000
+quarto oggiaro_001,1,65,4,145000
+quarto oggiaro_001,1,57,100,120000
+quarto oggiaro_001,1,80,2,190000
+quarto oggiaro_001,1,62,100,120000
+quarto oggiaro_010,1,105,100,175000
+quarto oggiaro_011,1,94,4 - 5,252000
+quarto oggiaro_011,1,109,-1 - 1,248000
+quarto oggiaro_100,2,65,0,129000
+quarto oggiaro_100,2,60,0,120000
+quarto oggiaro_100,2,70,0,125000
+quarto oggiaro_101,2,65,3,130000
+quarto oggiaro_101,2,88,6,278600
+quarto oggiaro_110,2,110,3,298000
+quarto oggiaro_110,2,123,2,265000
+quarto oggiaro_111,2,105,4 - 5,289000
+vialba_000,1,35,0,59000
+vialba_000,1,52,0,93000
+vialba_000,1,46,0 - 2,82000
+vialba_000,1,57,1,130000
+vialba_000,1,78,1,185000
+vialba_000,1,70,0,128000
+vialba_000,1,37,1,92000
+vialba_000,1,65,-1 - 1,210000
+vialba_000,1,70,1,190000
+vialba_000,1,65,1,120000
+vialba_001,1,40,2,90000
+vialba_001,1,53,2,95000
+vialba_001,1,80,3,153000
+vialba_001,1,40,3,80000
+vialba_001,1,61,2,145000
+vialba_001,1,65,100,160000
+vialba_001,1,55,5,120000
+vialba_001,1,85,100,129000
+vialba_001,1,55,2,149000
+vialba_001,1,46,2,110000
+vialba_001,1,78,2,179000
+vialba_001,1,70,3,125000
+vialba_001,1,55,2,120000
+vialba_010,1,104,2,170000
+vialba_010,1,92,3,178000
+vialba_100,2,85,2,195000
+bovisa_000,1,47,1,169000
+bovisa_000,1,35,1,125000
+bovisa_000,1,45,1,149000
+bovisa_000,1,52,1,180000
+bovisa_000,1,53,1,210000
+bovisa_000,1,75,0,145000
+bovisa_000,1,45,1,130000
+bovisa_000,1,65,1,179000
+bovisa_000,1,55,1,210000
+bovisa_000,1,67,0,205000
+bovisa_000,1,70,0,195000
+bovisa_000,1,66,-1 - 6,218000
+bovisa_000,1,33,1,135000
+bovisa_000,1,70,-1 - 1,239000
+bovisa_000,1,44,1,160000
+bovisa_000,1,56,1,183000
+bovisa_000,1,56,0,172000
+bovisa_000,1,75,1,240000
+bovisa_000,1,80,-1,129000
+bovisa_000,1,40,1,107000
+bovisa_000,1,86,1,228000
+bovisa_000,1,73,0,230000
+bovisa_000,1,61,0,205000
+bovisa_000,1,52,1,172000
+bovisa_000,1,56,1,183000
+bovisa_000,1,54,0,183000
+bovisa_000,1,65,-1 - 1,220000
+bovisa_000,1,39,1,98000
+bovisa_000,1,35,0,116000
+bovisa_001,1,48,100,198000
+bovisa_001,1,30,2,110000
+bovisa_001,1,60,5,180000
+bovisa_001,1,57,2,115000
+bovisa_001,1,60,100,145000
+bovisa_001,1,55,100,139000
+bovisa_001,1,60,5,228000
+bovisa_001,1,78,11,280000
+bovisa_001,1,60,2,220000
+bovisa_001,1,50,2,189000
+bovisa_001,1,55,5,155000
+bovisa_001,1,55,2,162000
+bovisa_001,1,75,4,250000
+bovisa_001,1,90,2,255000
+bovisa_001,1,72,11,275000
+bovisa_001,1,50,5,175000
+bovisa_001,1,50,2,115000
+bovisa_001,1,80,4,180000
+bovisa_001,1,87,100 - 2,210000
+bovisa_001,1,58,100,164000
+bovisa_001,1,57,2,165000
+bovisa_001,1,55,100,209000
+bovisa_001,1,52,2,169000
+bovisa_001,1,57,100,235000
+bovisa_001,1,70,4,235000
+bovisa_001,1,44,100 - 1,160000
+bovisa_001,1,78,11,280000
+bovisa_001,1,53,5,178000
+bovisa_001,1,57,2,115000
+bovisa_001,1,60,2,150000
+bovisa_001,1,75,4,208000
+bovisa_001,1,55,5,235000
+bovisa_001,1,66,2,149000
+bovisa_001,1,85,4,275000
+bovisa_001,1,40,7,185000
+bovisa_001,1,45,100,129000
+bovisa_001,1,70,2,235000
+bovisa_001,1,55,2,219000
+bovisa_001,1,65,3,179000
+bovisa_001,1,50,2,138000
+bovisa_001,1,55,4,160000
+bovisa_001,1,55,2,110000
+bovisa_001,1,55,2,98000
+bovisa_001,1,55,2,220000
+bovisa_001,1,88,4,288000
+bovisa_001,1,44,100,155000
+bovisa_001,1,42,3,138000
+bovisa_001,1,70,2,240000
+bovisa_001,1,47,100,138000
+bovisa_010,1,120,3,251000
+bovisa_010,1,100,3,280000
+bovisa_010,1,96,2,269000
+bovisa_011,1,100,-1 - 0,299000
+bovisa_011,1,94,0,299000
+bovisa_100,2,113,0 - 2,255000
+bovisa_100,2,110,1,270000
+bovisa_100,2,110,1,269000
+bovisa_100,3,120,0 - 2,255000
+bovisa_101,2,110,2,297000
+bovisa_110,2,71,2,260000
+bovisa_110,2,75,2,143000
+bovisa_111,2,80,0,250000
+bovisa_111,2,60,1,165000
+roserio_000,2,148,2,187000
+roserio_010,2,86,-1 - 2,195000
+roserio_100,1,124,1,122000
+roserio_100,1,92,-1 - 2,165000
+roserio_100,1,100,1,165000
+roserio_101,1,98,100,111000
+roserio_101,1,110,9,215000
+roserio_101,1,110,3,179000
+roserio_101,1,121,100,228000
+roserio_110,1,90,2,120000
+roserio_110,1,85,3,150000
+roserio_110,1,50,6,99500
+roserio_110,1,87,2,200000
+roserio_110,1,84,5,185000
+roserio_110,1,90,2,165000
+roserio_110,1,85,3,139000
+roserio_110,1,86,2,123000
+roserio_110,1,75,100,115000
+roserio_111,1,86,-1 - 1,138000
+comasina_000,1,70,100,168
+comasina_000,1,65,100,107000
+comasina_000,1,59,100,148000
+comasina_000,1,85,3,225000
+comasina_000,1,40,4,120000
+comasina_000,1,50,100,120000
+comasina_000,1,63,100,140000
+comasina_000,1,65,100,148000
+comasina_000,1,81,7,187000
+comasina_000,1,60,7,170000
+comasina_000,1,55,3,155000
+comasina_000,1,70,2,175000
+comasina_000,1,68,100,175000
+comasina_000,1,81,8,210000
+comasina_000,1,83,5,210000
+comasina_000,1,85,3,209000
+comasina_000,1,59,2,119000
+comasina_000,1,80,4,175000
+comasina_000,1,58,2,158000
+comasina_001,1,55,1,120000
+comasina_001,1,72,1,250000
+comasina_001,1,55,1,145000
+comasina_001,1,70,1,169000
+comasina_001,1,54,1,179000
+comasina_001,1,85,1,178000
+comasina_010,1,99,1,250000
+comasina_010,1,133,0,295000
+comasina_011,1,105,4,240000
+comasina_011,1,123,6,259000
+comasina_011,1,95,4,240000
+dergano_000,1,40,2,165000
+dergano_000,1,90,3,230000
+dergano_000,1,47,100,179000
+dergano_000,1,74,2,150000
+dergano_000,1,25,4,119000
+dergano_000,1,41,2,50250
+dergano_000,1,75,2,230000
+dergano_000,1,40,2,200000
+dergano_000,1,74,3,139000
+dergano_000,1,70,3,185000
+dergano_000,1,28,6,128000
+dergano_000,1,50,4,160000
+dergano_000,1,85,4,258000
+dergano_000,1,90,3,185000
+dergano_000,1,55,4,180000
+dergano_000,1,44,2,185000
+dergano_000,1,30,2,89000
+dergano_000,1,25,4,119000
+dergano_000,1,58,3,190000
+dergano_000,1,85,3,220000
+dergano_000,1,51,2,192000
+dergano_000,1,35,4,108000
+dergano_000,1,56,100,180000
+dergano_000,1,60,4,150000
+dergano_000,1,74,6,249000
+dergano_000,1,55,100,250000
+dergano_000,1,55,2,225000
+dergano_000,1,60,2,179000
+dergano_000,1,50,3,205000
+dergano_000,1,85,2,208000
+dergano_000,1,38,5,109000
+dergano_000,1,45,5,198000
+dergano_000,1,61,2,294250
+dergano_000,1,61,3,294250
+dergano_000,1,37,3,169000
+dergano_000,1,45,3,129000
+dergano_000,1,25,4,119000
+dergano_000,1,55,5,185000
+dergano_000,1,25,4,69000
+dergano_000,1,75,5,250000
+dergano_000,1,25,4,119000
+dergano_000,1,65,3,239000
+dergano_000,1,55,2,220000
+dergano_000,1,80,2,145000
+dergano_000,1,85,3,290000
+dergano_000,1,49,4,168000
+dergano_000,1,50,3,160000
+dergano_000,1,40,2,165000
+dergano_000,1,30,4,119000
+dergano_000,1,55,5,178000
+dergano_001,1,30,0,84000
+dergano_001,1,45,0,119000
+dergano_001,1,75,0,185000
+dergano_001,1,27,0,113000
+dergano_001,1,72,0,285000
+dergano_001,1,40,0,95000
+dergano_001,1,45,0,165000
+dergano_001,1,60,1,240000
+dergano_001,1,58,0,176000
+dergano_001,1,70,0,189000
+dergano_001,1,80,0,260000
+dergano_001,1,25,0,112000
+dergano_001,1,63,-1,150000
+dergano_001,1,53,-1,157000
+dergano_001,1,59,1,280250
+dergano_001,1,85,1,247000
+dergano_001,1,78,1,198000
+dergano_001,1,51,1,129000
+dergano_001,1,50,0,170000
+dergano_001,1,50,0,170000
+dergano_001,1,53,0,175000
+dergano_001,1,53,0,175000
+dergano_001,1,50,0,170000
+dergano_001,1,55,0,250000
+dergano_001,1,75,1,239000
+dergano_001,1,50,1,125000
+dergano_001,1,59,-1,118000
+dergano_001,1,54,-1,146000
+dergano_001,1,35,1,120000
+dergano_001,1,60,1,240000
+dergano_001,1,61,1,260000
+dergano_001,1,71,0,290000
+dergano_001,1,60,1,240000
+dergano_001,1,60,0,185000
+dergano_001,1,38,0,125000
+dergano_001,1,55,0,185000
+dergano_001,1,38,0,135000
+dergano_001,1,30,0,79000
+dergano_001,1,60,1,240000
+dergano_001,1,50,0,235000
+dergano_001,1,50,0,183000
+dergano_001,1,65,1,160000
+dergano_001,1,65,1,245000
+dergano_010,1,105,100,288000
+dergano_010,1,110,5,250000
+dergano_011,1,100,1,279000
+dergano_100,2,116,4,270000
+dergano_101,2,95,0,260000
+dergano_101,2,100,-1,280000
+dergano_110,2,37,1,119000
+dergano_110,2,80,0,295000
+bovisasca_000,2,125,5,286000
+bovisasca_000,2,100,4,255000
+bovisasca_000,2,100,4,280000
+bovisasca_010,2,90,2,228000
+bovisasca_100,1,70,2,150000
+bovisasca_100,1,60,5,148000
+bovisasca_100,1,70,2,150000
+bovisasca_101,1,32,0,75000
+bovisasca_101,1,80,0,128000
+bovisasca_101,1,90,0,249000
+bovisasca_110,1,94,1,270000
+farini_000,1,80,1,260000
+farini_000,1,50,1,198000
+farini_000,1,55,1,199000
+farini_001,1,75,2,225000
+farini_001,1,76,2,299000
+farini_001,1,50,2,290000
+farini_001,1,50,4,280000
+farini_001,1,45,4,165000
+farini_001,1,50,2,265000
+farini_001,1,32,2,175000
+farini_001,1,70,3,270000
+farini_001,1,76,4,215000
+farini_001,1,50,2,230000
+farini_001,1,50,100,238000
+farini_001,1,70,2,298000
+farini_001,1,60,7,268000
+farini_001,1,45,4,179000
+farini_001,1,75,5,237000
+farini_001,1,45,100,210000
+farini_001,1,25,3,129000
+farini_100,2,85,0,249000
+tre castelli - faenza_000,1,53,7,163000
+tre castelli - faenza_000,1,60,2,230000
+tre castelli - faenza_000,1,75,5,278000
+tre castelli - faenza_000,1,35,2,125000
+tre castelli - faenza_000,1,70,6,200000
+tre castelli - faenza_000,1,60,4,180000
+tre castelli - faenza_000,1,70,2,200000
+tre castelli - faenza_000,1,50,2,175000
+tre castelli - faenza_000,1,65,2,229000
+tre castelli - faenza_000,1,35,100,119000
+tre castelli - faenza_000,1,65,7,197000
+tre castelli - faenza_000,1,45,100,125000
+tre castelli - faenza_000,1,65,7,197000
+tre castelli - faenza_000,1,75,7,235000
+tre castelli - faenza_000,1,35,2,105000
+tre castelli - faenza_000,1,35,2,115000
+tre castelli - faenza_000,1,35,4,125000
+tre castelli - faenza_000,1,50,3,186000
+tre castelli - faenza_000,1,65,6,279000
+tre castelli - faenza_000,1,65,100,157000
+tre castelli - faenza_000,1,35,2,160000
+tre castelli - faenza_000,1,60,2,205000
+tre castelli - faenza_000,1,48,3,165000
+tre castelli - faenza_000,1,70,3,220000
+tre castelli - faenza_000,1,70,6,170000
+tre castelli - faenza_000,1,35,4,115000
+tre castelli - faenza_000,1,60,3,175000
+tre castelli - faenza_000,1,65,100,180000
+tre castelli - faenza_000,1,65,4,195000
+tre castelli - faenza_000,1,70,6,205000
+tre castelli - faenza_001,1,23,0,99000
+tre castelli - faenza_001,1,65,0,165000
+tre castelli - faenza_001,1,90,1,260000
+tre castelli - faenza_001,1,30,0,115000
+tre castelli - faenza_001,1,55,1,210000
+tre castelli - faenza_001,1,35,1,120000
+tre castelli - faenza_001,1,55,1,250000
+tre castelli - faenza_001,1,48,1,175000
+tre castelli - faenza_001,1,65,-1 - 4,190000
+tre castelli - faenza_001,1,60,-1 - 2,220000
+tre castelli - faenza_001,1,70,0,129000
+tre castelli - faenza_001,1,35,1,118000
+tre castelli - faenza_001,1,75,1,275000
+tre castelli - faenza_001,1,60,0,300000
+tre castelli - faenza_001,1,79,-1 - 100,210000
+tre castelli - faenza_010,1,100,2,270000
+tre castelli - faenza_010,1,115,100,230000
+tre castelli - faenza_010,1,100,5,245000
+tre castelli - faenza_100,2,120,1,260000
+tre castelli - faenza_100,2,120,1,239000
+tre castelli - faenza_100,2,120,1,277000
+tre castelli - faenza_100,2,125,1,289000
+tre castelli - faenza_100,2,105,0,268000
+tre castelli - faenza_101,2,140,4,280000
+tre castelli - faenza_101,2,140,3,285000
+tre castelli - faenza_110,2,80,-1 - 0,265000
+tre castelli - faenza_110,2,75,-1 - 0,268000
+tre castelli - faenza_110,2,85,0,268000
+tre castelli - faenza_110,2,85,0,265000
+tre castelli - faenza_110,2,75,1,260000
+tre castelli - faenza_110,2,85,0,265000
+tre castelli - faenza_110,2,85,0,268000
+tre castelli - faenza_111,2,90,6,250000
+cantalupa - san paolo_000,2,40,0,180000
+cantalupa - san paolo_000,2,50,1,180000
+cantalupa - san paolo_001,2,73,2,245000
+cantalupa - san paolo_001,2,85,3,248000
+cantalupa - san paolo_010,2,100,7,299000
+cantalupa - san paolo_010,2,98,5,249000
+cantalupa - san paolo_010,2,100,100,299000
+cantalupa - san paolo_011,3,100,0,210000
+cantalupa - san paolo_011,2,112,1,259000
+cantalupa - san paolo_100,1,70,5,205000
+cantalupa - san paolo_100,1,62,100,188000
+cantalupa - san paolo_100,1,70,3,220000
+cantalupa - san paolo_100,1,63,3,250000
+cantalupa - san paolo_100,1,85,100,290000
+cantalupa - san paolo_100,1,60,2,123000
+cantalupa - san paolo_100,1,75,3,195000
+cantalupa - san paolo_100,1,65,7,249000
+cantalupa - san paolo_100,1,70,4,198000
+cantalupa - san paolo_100,1,75,5,239000
+cantalupa - san paolo_100,1,35,2,147000
+cantalupa - san paolo_100,1,62,100,188000
+cantalupa - san paolo_100,1,47,2,105000
+cantalupa - san paolo_100,1,70,100,188000
+cantalupa - san paolo_100,1,80,8,199000
+cantalupa - san paolo_100,1,65,2,219000
+cantalupa - san paolo_100,1,35,2,149000
+cantalupa - san paolo_100,1,85,6,229000
+cantalupa - san paolo_100,1,90,3,258000
+cantalupa - san paolo_100,1,72,6,170000
+cantalupa - san paolo_100,1,70,6,170000
+cantalupa - san paolo_100,1,90,12,288000
+cantalupa - san paolo_100,1,65,5,179000
+cantalupa - san paolo_100,1,65,6,210000
+cantalupa - san paolo_100,1,85,4,169000
+cantalupa - san paolo_100,1,75,5,239000
+cantalupa - san paolo_100,1,85,2,230000
+cantalupa - san paolo_100,1,70,5,240000
+cantalupa - san paolo_100,1,70,4,238000
+cantalupa - san paolo_100,1,50,2,248000
+cantalupa - san paolo_100,1,65,100,188000
+cantalupa - san paolo_101,1,57,1,170000
+cantalupa - san paolo_101,1,50,1,129000
+cantalupa - san paolo_101,1,44,1,115000
+cantalupa - san paolo_101,1,60,0,249000
+cantalupa - san paolo_101,1,45,0,185000
+cantalupa - san paolo_101,1,40,0,115000
+cantalupa - san paolo_101,1,55,-1 - 0,237000
+cantalupa - san paolo_101,1,65,1,299000
+cantalupa - san paolo_101,1,71,1,240000
+cantalupa - san paolo_110,1,95,6,250000
+cantalupa - san paolo_110,1,100,7,269000
+cantalupa - san paolo_110,1,95,4,249000
+cantalupa - san paolo_110,1,95,6,268000
+cantalupa - san paolo_111,1,95,1,195000
+cantalupa - san paolo_111,1,95,1,230000
+cantalupa - san paolo_111,1,100,1,270000
+pezzotti - meda_000,1,70,3,230000
+pezzotti - meda_000,1,60,2,299000
+pezzotti - meda_000,1,26,3,138000
+pezzotti - meda_001,1,50,1,285000
+pezzotti - meda_001,1,65,-1 - 4,295000
+famagosta_000,1,60,100,250000
+famagosta_000,1,85,2,299000
+famagosta_000,1,63,4,190000
+famagosta_000,1,90,2,280000
+famagosta_000,1,85,3,285000
+famagosta_000,1,55,2,82000
+famagosta_000,1,40,100,220000
+famagosta_000,1,50,6,165000
+famagosta_000,1,60,7,198000
+famagosta_000,1,45,2,150000
+famagosta_000,1,75,8,230000
+famagosta_000,1,35,4,125000
+famagosta_000,1,70,2,230000
+famagosta_000,1,42,2,139000
+famagosta_000,1,60,100,250000
+famagosta_000,1,55,4,210000
+famagosta_000,1,70,5,225000
+famagosta_000,1,45,2,128000
+famagosta_000,1,30,100,150000
+famagosta_000,1,33,2,110000
+famagosta_000,1,50,2,230000
+famagosta_000,1,45,3,165000
+famagosta_000,1,78,6,295000
+famagosta_001,1,55,1,249000
+famagosta_001,1,30,-1,12000
+famagosta_001,1,70,1,179000
+famagosta_001,1,42,-1,98000
+famagosta_001,1,45,1,145000
+famagosta_001,1,50,0,179000
+famagosta_001,1,55,1,169000
+famagosta_001,1,50,1,169000
+famagosta_001,1,58,1,220000
+famagosta_001,1,31,1,119000
+famagosta_001,1,80,0,269000
+famagosta_001,1,48,0,280000
+famagosta_001,1,40,0,235000
+famagosta_001,1,80,1,285000
+famagosta_001,1,48,0,265000
+famagosta_001,1,50,1,229000
+famagosta_001,1,58,1,220000
+famagosta_010,1,100,8,275000
+famagosta_010,1,95,5,295000
+famagosta_010,1,100,8,275000
+famagosta_010,1,95,100,249000
+famagosta_010,1,95,8,275000
+famagosta_010,1,93,3,275000
+famagosta_010,1,100,7,275000
+famagosta_010,1,100,8,275000
+famagosta_010,1,94,8,275000
+famagosta_011,1,108,0,60000
+famagosta_100,2,130,0 - 1,129900
+famagosta_100,3,155,0,199900
+famagosta_110,2,78,0 - 1,129900
+barona_000,1,45,-1,159000
+barona_000,1,48,1,160000
+barona_000,1,25,0,120000
+barona_000,1,55,-1 - 2,220000
+barona_000,1,53,1,230000
+barona_000,1,58,-1,245000
+barona_000,1,42,1,229000
+barona_000,1,56,-1,235000
+barona_001,1,67,6,230000
+barona_001,1,65,2,218000
+barona_001,1,46,5,255000
+barona_001,1,55,100,209000
+barona_001,1,30,3,185000
+barona_001,1,65,3,250000
+barona_001,1,75,4,198000
+barona_001,1,38,6,135000
+barona_001,1,80,100,285000
+barona_001,1,42,2,180000
+barona_001,1,40,5,139000
+barona_001,1,45,2,120000
+barona_001,1,45,100,179000
+barona_001,1,75,4,198000
+barona_001,1,30,7,135000
+barona_001,1,60,4,192000
+barona_001,1,45,4,125000
+barona_001,1,80,100,259000
+barona_001,1,90,3,259000
+barona_001,1,40,3,195000
+barona_001,1,65,3,280000
+barona_001,1,48,3,209000
+barona_001,1,67,2,290000
+barona_001,1,77,8,279000
+barona_001,1,50,6,165000
+barona_010,1,95,3,300000
+barona_100,7,60,2,175000
+barona_100,2,1,2,245000
+barona_100,2,85,3,270000
+barona_100,2,80,3,285000
+barona_100,2,65,2,250000
+barona_100,2,85,3,270000
+ghisolfa - mac mahon_000,1,90,0,200000
+ghisolfa - mac mahon_000,1,46,-1 - 1,149000
+ghisolfa - mac mahon_000,1,59,-1 - 3,200000
+ghisolfa - mac mahon_000,1,63,-1 - 3,210000
+ghisolfa - mac mahon_000,1,45,1,124000
+ghisolfa - mac mahon_000,1,80,0,249000
+ghisolfa - mac mahon_000,1,71,1,243000
+ghisolfa - mac mahon_000,1,70,0,249000
+ghisolfa - mac mahon_001,1,47,2,180000
+ghisolfa - mac mahon_001,1,65,4,280000
+ghisolfa - mac mahon_001,1,85,2,270000
+ghisolfa - mac mahon_001,1,78,100,280000
+ghisolfa - mac mahon_001,1,68,4,255000
+ghisolfa - mac mahon_001,1,70,3,210000
+ghisolfa - mac mahon_001,1,79,3,268000
+ghisolfa - mac mahon_001,1,75,3,295000
+ghisolfa - mac mahon_001,1,80,2,270000
+ghisolfa - mac mahon_001,1,68,3,210000
+ghisolfa - mac mahon_001,1,45,5,170000
+ghisolfa - mac mahon_001,1,40,5,135000
+ghisolfa - mac mahon_001,1,70,2,299000
+ghisolfa - mac mahon_001,1,78,2,270000
+ghisolfa - mac mahon_001,1,60,2,175000
+ghisolfa - mac mahon_001,1,45,2,229000
+ghisolfa - mac mahon_010,1,98,1,215000
+ghisolfa - mac mahon_100,2,108,3,229000
+ghisolfa - mac mahon_110,2,67,100,269000
+ghisolfa - mac mahon_111,2,80,1,268000
+cenisio_000,1,50,0,255000
+cenisio_000,1,48,1,260000
+cenisio_000,1,21,1,159000
+cenisio_000,1,55,1,290000
+cenisio_000,1,39,1,195000
+cenisio_000,1,81,-1,125000
+cenisio_000,1,80,-1,125000
+cenisio_000,1,57,1,290000
+cenisio_000,1,52,1,259000
+cenisio_000,1,61,0,290000
+cenisio_000,1,57,1,290000
+cenisio_000,1,57,1,290000
+cenisio_001,1,50,2,300000
+cenisio_001,1,50,5,293000
+cenisio_001,1,40,5,184000
+cenisio_001,1,30,2,178000
+cenisio_001,1,75,3,295000
+cenisio_001,1,50,100,238000
+cenisio_001,1,60,7,300000
+cenisio_100,2,50,0,249000
+portello - parco vittoria_000,1,46,0,230000
+portello - parco vittoria_000,1,48,0,250000
+portello - parco vittoria_001,1,70,100,298000
+portello - parco vittoria_001,1,62,100,255000
+portello - parco vittoria_001,1,66,4,279000
+portello - parco vittoria_100,2,49,0,290000
+portello - parco vittoria_100,2,60,0,280000
+giambellino_000,1,70,-1,215000
+giambellino_000,1,80,0,229000
+giambellino_000,1,50,0,170000
+giambellino_000,1,52,0,188000
+giambellino_000,1,60,1,195000
+giambellino_000,1,85,1,278000
+giambellino_000,1,72,0,39900
+giambellino_000,1,70,1,275000
+giambellino_000,1,53,-1 - 1,140000
+giambellino_000,1,40,0,245000
+giambellino_000,1,54,-1 - 3,145000
+giambellino_000,1,40,0,280000
+giambellino_000,1,60,1,195000
+giambellino_000,1,83,1,275000
+giambellino_000,1,58,1,205000
+giambellino_000,1,60,1,229000
+giambellino_000,1,56,1,239000
+giambellino_000,1,81,-1,230000
+giambellino_000,1,48,1,118000
+giambellino_000,1,40,0,149000
+giambellino_001,1,75,3,121000
+giambellino_001,1,47,100,157000
+giambellino_001,1,52,2,90000
+giambellino_001,1,70,2,235000
+giambellino_001,1,50,100,135000
+giambellino_001,1,70,5,280000
+giambellino_001,1,70,3,230000
+giambellino_001,1,67,100,288000
+giambellino_001,1,66,100,286000
+giambellino_001,1,55,100,240000
+giambellino_001,1,30,2,140000
+giambellino_001,1,58,5,235000
+giambellino_001,1,38,2,115000
+giambellino_001,1,40,6,165000
+giambellino_001,1,42,100,147000
+giambellino_001,1,60,5,230000
+giambellino_001,1,71,3,240000
+giambellino_001,1,80,6,205000
+giambellino_001,1,75,3,199000
+giambellino_001,1,70,4,200000
+giambellino_001,1,43,2,139000
+giambellino_001,1,70,100,225000
+giambellino_001,1,55,3,169000
+giambellino_001,1,60,6,250000
+giambellino_001,1,53,5,225000
+giambellino_001,1,50,100,205000
+giambellino_001,1,65,2,230000
+giambellino_001,1,75,3,199000
+giambellino_001,1,75,3,199000
+giambellino_001,1,85,4,259000
+giambellino_001,1,58,100,195000
+giambellino_001,1,80,4,179000
+giambellino_001,1,70,6,279000
+giambellino_001,1,50,6,235000
+giambellino_001,1,75,100,185000
+giambellino_001,1,50,3,185000
+giambellino_001,1,55,5,200000
+giambellino_001,1,40,7,175000
+giambellino_001,1,50,5,179000
+giambellino_001,1,30,8,139000
+giambellino_001,1,80,3,230000
+giambellino_001,1,55,3,115000
+giambellino_001,1,50,4,250000
+giambellino_001,1,52,2,225000
+giambellino_001,1,63,8,195000
+giambellino_001,1,63,7,235000
+giambellino_010,1,145,100 - 3,249000
+giambellino_100,2,100,100,300000
+giambellino_100,2,110,4,298000
+giambellino_101,2,110,1,240000
+giambellino_101,2,105,1,259000
+chiesa rossa_000,1,65,3,229000
+chiesa rossa_000,1,45,2,169000
+chiesa rossa_000,1,56,100,156000
+chiesa rossa_000,1,70,2,199000
+chiesa rossa_000,1,90,2,225000
+chiesa rossa_000,1,37,3,148000
+chiesa rossa_001,1,50,1,135000
+cermenate - abbiategrasso_000,1,82,0,295000
+cermenate - abbiategrasso_000,1,75,0,259000
+cermenate - abbiategrasso_000,1,74,0,180200
+cermenate - abbiategrasso_001,1,55,4,250000
+cermenate - abbiategrasso_001,1,60,3,229000
+cermenate - abbiategrasso_001,1,60,3,229000
+zara_000,1,85,-1,250000
+zara_000,1,45,1,220000
+zara_000,1,30,0,139000
+zara_000,1,24,1,135000
+zara_000,1,46,0,240000
+zara_001,1,47,3,280000
+zara_001,1,38,3,210000
+inganni_000,1,53,-1 - 1,155000
+inganni_000,1,60,1,155000
+inganni_000,1,83,0,229000
+inganni_001,1,35,2,130000
+inganni_001,1,45,2,140000
+inganni_001,1,75,2,250000
+inganni_001,1,62,3,162000
+inganni_001,1,60,4,230000
+inganni_001,1,75,5,199000
+inganni_001,1,87,5,250000
+inganni_001,1,65,100,147000
+inganni_001,1,86,100,230000
+inganni_001,1,56,100,220000
+inganni_001,1,76,100,210000
+inganni_001,1,85,4,208000
+inganni_010,1,91,4,295000
+inganni_010,1,104,4,195000
+inganni_011,1,100,0,285000
+inganni_100,2,125,1,245000
+inganni_110,2,80,2,250000
+sempione_000,1,42,3,270000
+sempione_000,1,64,100,299000
+sempione_000,1,40,2,255000
+isola_000,1,55,4,260000
+isola_000,1,37,2,205000
+isola_000,1,40,3,299000
+isola_000,1,22,4,150000
+isola_000,1,37,3,255000
+isola_000,1,70,2,192000
+isola_000,1,55,100,280000
+isola_001,1,45,1,286000
+navigli - darsena_000,1,52,6,289000
+corvetto_000,1,50,3,140000
+corvetto_000,1,30,100,134000
+corvetto_000,1,40,100,178000
+corvetto_000,1,47,4,170000
+corvetto_000,1,35,4,95000
+corvetto_000,1,50,2,248000
+corvetto_000,1,90,100,275000
+corvetto_000,1,72,4,153000
+corvetto_000,1,50,4,113000
+corvetto_000,1,65,2,170000
+corvetto_000,1,43,2,149000
+corvetto_000,1,45,100,179000
+corvetto_000,1,90,3,248000
+corvetto_000,1,75,9,198000
+corvetto_000,1,88,4,245000
+corvetto_000,1,75,4,240000
+corvetto_000,1,35,2,85000
+corvetto_000,1,60,3,265000
+corvetto_000,1,66,2,165000
+corvetto_000,1,66,2,135000
+corvetto_000,1,28,2,98000
+corvetto_000,1,70,4,150000
+corvetto_000,1,37,2,135000
+corvetto_000,1,30,4,105000
+corvetto_000,1,70,3,225000
+corvetto_000,1,75,5,280000
+corvetto_000,1,40,6,140000
+corvetto_000,1,75,3,210000
+corvetto_000,1,29,3,97000
+corvetto_000,1,40,3,183000
+corvetto_000,1,50,5,140000
+corvetto_000,1,75,100,190000
+corvetto_000,1,35,5,128000
+corvetto_000,1,70,3,299000
+corvetto_000,1,90,4,230000
+corvetto_000,1,80,4,195000
+corvetto_000,1,85,2,300000
+corvetto_000,1,90,100,275000
+corvetto_000,1,90,100,209000
+corvetto_000,1,60,5,255000
+corvetto_000,1,30,3,97000
+corvetto_000,1,85,3,215000
+corvetto_000,1,52,5,107000
+corvetto_000,1,75,3,210000
+corvetto_000,1,90,3,248000
+corvetto_000,1,35,5,99000
+corvetto_000,1,80,3,220000
+corvetto_000,1,30,2,119000
+corvetto_000,1,55,3,130000
+corvetto_000,1,56,3,147000
+corvetto_000,1,55,2,109000
+corvetto_000,1,82,100,288000
+corvetto_000,1,77,2,242000
+corvetto_000,1,75,4,274000
+corvetto_000,1,55,7,245000
+corvetto_000,1,40,100,178000
+corvetto_000,1,85,3,248000
+corvetto_000,1,57,100,260000
+corvetto_000,1,17,6,129000
+corvetto_000,1,65,4,265000
+corvetto_000,1,45,100,148000
+corvetto_000,1,58,100,209000
+corvetto_000,1,85,4,275000
+corvetto_000,1,40,4,108000
+corvetto_000,1,40,100,178000
+corvetto_000,1,70,3,210000
+corvetto_000,1,75,5,225000
+corvetto_000,1,30,3,97000
+corvetto_000,1,50,4,180000
+corvetto_000,1,55,100,130000
+corvetto_000,1,69,3,230000
+corvetto_000,1,45,3,205000
+corvetto_000,1,65,3,210000
+corvetto_000,1,75,3,265000
+corvetto_000,1,60,3,290000
+corvetto_000,1,45,3,122000
+corvetto_000,1,55,100,217000
+corvetto_000,1,48,4,165000
+corvetto_000,1,41,4,175000
+corvetto_000,1,35,100,139000
+corvetto_000,1,40,2,98000
+corvetto_000,1,60,5,219000
+corvetto_000,1,30,100,135000
+corvetto_000,1,30,4,99000
+corvetto_000,1,90,100,275000
+corvetto_000,1,55,2,250000
+corvetto_000,1,62,2,299000
+corvetto_001,1,80,1,285000
+corvetto_001,1,60,0,209000
+corvetto_001,1,74,1,290000
+corvetto_001,1,75,1,220000
+corvetto_001,1,50,0,185000
+corvetto_001,1,52,0,200000
+corvetto_001,1,70,1,249000
+corvetto_001,1,35,1,110000
+corvetto_001,1,48,0,160000
+corvetto_001,1,37,1,125000
+corvetto_001,1,60,-1,99000
+corvetto_001,1,72,-1,120000
+corvetto_001,1,65,0,255000
+corvetto_001,1,40,1,165000
+corvetto_001,1,40,-1,125000
+corvetto_001,1,60,-1,135000
+corvetto_001,1,85,1,215000
+corvetto_001,1,60,-1,155000
+corvetto_001,1,70,1,145000
+corvetto_001,1,60,1,265000
+corvetto_001,1,62,1,259000
+corvetto_001,1,44,1,230000
+corvetto_001,1,48,1,250000
+corvetto_001,1,76,1,290000
+corvetto_001,1,35,1,100000
+corvetto_001,1,74,1,290000
+corvetto_001,1,35,1,135000
+corvetto_001,1,50,1,170000
+corvetto_001,1,72,-1,170000
+corvetto_001,1,80,1,200000
+corvetto_001,1,55,1,190000
+corvetto_001,1,90,1,230000
+corvetto_001,1,90,1,230000
+corvetto_001,1,50,0,175000
+corvetto_001,1,75,1,269000
+corvetto_001,1,65,1,199000
+corvetto_001,1,35,0,178000
+corvetto_001,1,70,1,219000
+corvetto_001,1,80,-1,125000
+corvetto_001,1,85,1,300000
+corvetto_001,1,90,0,275000
+corvetto_001,1,50,1,240000
+corvetto_001,1,30,1,107000
+corvetto_001,1,59,1,239000
+corvetto_001,1,62,0,180000
+corvetto_001,1,65,0,255000
+corvetto_001,1,45,1,150000
+corvetto_001,1,50,0,159000
+corvetto_001,1,35,1,135000
+corvetto_001,1,45,1,139000
+corvetto_001,1,90,1,300000
+corvetto_010,1,95,-1,160000
+corvetto_010,1,95,-1,250000
+corvetto_010,1,100,-1,230000
+corvetto_010,1,95,1,255000
+corvetto_010,1,122,-1 - 3,269000
+corvetto_010,1,110,1,220000
+corvetto_011,1,95,5,230000
+corvetto_011,1,110,4,258000
+corvetto_011,1,110,100,245000
+corvetto_011,1,93,5,289000
+corvetto_100,2,97,1,280000
+corvetto_100,2,115,1,290000
+corvetto_110,2,90,1,279000
+corvetto_111,3,1,2,149000
+corvetto_111,3,1,2,215000
+corvetto_111,2,70,100,175000
+bologna - sulmona_000,1,87,1,288000
+bologna - sulmona_000,1,56,0,166000
+bologna - sulmona_001,1,70,6,245000
+bologna - sulmona_001,1,68,5,259000
+paolo sarpi_000,1,30,2,200000
+paolo sarpi_000,1,40,2,260000
+paolo sarpi_000,1,47,3,298000
+paolo sarpi_000,1,30,2,250000
+paolo sarpi_000,1,30,3,108000
+paolo sarpi_000,1,40,3,225000
+paolo sarpi_000,1,29,4,185000
+paolo sarpi_001,1,35,0,210000
+paolo sarpi_001,1,50,1,250000
+paolo sarpi_001,1,25,1,170000
+paolo sarpi_001,1,46,1,290000
+arco della pace_000,1,48,100,298000
+arco della pace_000,1,48,100,250000
+molise - cuoco_000,1,94,2,299000
+molise - cuoco_010,1,90,100,250000
+molise - cuoco_010,1,87,2,295000
+molise - cuoco_010,1,45,100,155000
+molise - cuoco_100,2,96,0,280000
+martini - insubria_000,1,65,-1,290000
+martini - insubria_000,1,65,1,235000
+martini - insubria_000,1,50,0,240000
+martini - insubria_001,1,50,2,160000
+martini - insubria_001,1,45,3,228000
+martini - insubria_001,1,25,2,149000
+lodi - brenta_000,1,55,0,290000
+lodi - brenta_000,1,32,1,169000
+lodi - brenta_001,1,46,100,249000
+lodi - brenta_001,1,35,3,179000
+lodi - brenta_001,1,55,4,299000
+lodi - brenta_100,2,65,0,300000
+cadore_000,1,43,1,290000
+porta vittoria_000,1,53,100,205000
+bande nere_000,1,70,0,280000
+bande nere_000,1,55,-1,185000
+bande nere_000,1,72,0,200000
+bande nere_000,1,70,0,280000
+bande nere_000,1,41,1,115000
+bande nere_000,1,45,1,245000
+bande nere_000,1,63,0,255000
+bande nere_000,1,48,0,165000
+bande nere_000,1,65,0,295000
+bande nere_000,1,60,-1,295000
+bande nere_000,1,43,1,205000
+bande nere_000,1,50,0,189000
+bande nere_001,1,65,100,220000
+bande nere_001,1,65,4,270000
+bande nere_001,1,63,3,210000
+bande nere_001,1,50,3,235000
+bande nere_001,1,62,5,265000
+bande nere_001,1,60,5,260000
+bande nere_001,1,49,8,249000
+bande nere_001,1,50,2,240000
+bande nere_001,1,50,5,298000
+bande nere_001,1,60,100,258000
+bande nere_001,1,52,100,238000
+bande nere_001,1,45,2,240000
+bande nere_100,2,70,1,79900
+piazzale siena_000,2,1,3,197000
+piazzale siena_010,2,150,-1,230000
+piazzale siena_100,1,70,-1,130000
+piazzale siena_100,1,55,1,240000
+piazzale siena_100,1,46,0,176000
+piazzale siena_100,1,61,-1 - 4,290000
+piazzale siena_100,1,69,1,230000
+piazzale siena_100,1,53,0,227142
+piazzale siena_100,1,45,0,191887
+piazzale siena_100,1,53,0,214320
+piazzale siena_100,1,65,0,289695
+piazzale siena_100,1,70,-1,130000
+piazzale siena_100,1,44,1,171000
+piazzale siena_100,1,53,0,214320
+piazzale siena_100,1,66,0,295254
+piazzale siena_100,1,53,0,227142
+piazzale siena_100,1,66,0,294807
+piazzale siena_100,1,45,0,199233
+piazzale siena_100,1,45,0,191257
+piazzale siena_100,1,50,0,220000
+piazzale siena_100,1,80,0,250000
+piazzale siena_101,1,65,5,240000
+piazzale siena_101,1,52,100,195000
+piazzale siena_101,1,57,100,165000
+piazzale siena_101,1,45,5,280000
+piazzale siena_101,1,60,3,265000
+piazzale siena_101,1,70,100,220000
+piazzale siena_101,1,40,4,230000
+piazzale siena_101,1,40,3,189000
+piazzale siena_101,1,54,8,249000
+piazzale siena_101,1,54,2,239000
+piazzale siena_101,1,70,8,285000
+piazzale siena_101,1,50,2,200000
+piazzale siena_101,1,73,2,280000
+piazzale siena_101,1,60,5,255000
+piazzale siena_101,1,50,5,225000
+piazzale siena_101,1,55,5,225000
+piazzale siena_101,1,70,7,290000
+piazzale siena_101,1,50,100,250000
+piazzale siena_101,1,67,3,250000
+piazzale siena_101,1,55,4,225000
+piazzale siena_101,1,74,5,220000
+piazzale siena_101,1,60,2,218000
+piazzale siena_110,1,100,-1,169000
+piazzale siena_111,1,96,4,285000
+gambara_000,1,65,3,270000
+gambara_000,1,50,8,275000
+gambara_000,1,67,5,230000
+gambara_000,1,80,5,289000
+gambara_000,1,50,5,295000
+gambara_000,1,65,3,270000
+gambara_000,1,42,100,275000
+gambara_000,1,58,2,298000
+gambara_000,1,33,100,140000
+gambara_000,1,65,2,285000
+gambara_000,1,60,5,260000
+gambara_000,1,35,4,185000
+gambara_000,1,50,5,240000
+gambara_000,1,40,7,235000
+gambara_000,1,40,7,235000
+gambara_000,1,40,4,165000
+gambara_000,1,59,3,265000
+gambara_000,1,70,2,300000
+gambara_000,1,54,2,249000
+gambara_001,1,68,1,210000
+gambara_001,1,64,1,270000
+gambara_001,1,60,0,235000
+gambara_001,1,50,0,185000
+gambara_001,1,40,1,239000
+gambara_001,1,60,0,235000
+gambara_001,1,50,0,185000
+gambara_001,1,65,0,240000
+gambara_100,2,55,2,285000
+gambara_101,2,90,-1,265000
+gambara_101,2,90,0,265000
+gambara_101,2,90,-1,265000
+gambara_101,2,90,-1,265000
+gambara_101,2,90,-1,265000
+primaticcio_000,1,70,100,275000
+primaticcio_000,1,70,100,275000
+primaticcio_000,1,66,3,239000
+primaticcio_000,1,61,2,170000
+primaticcio_000,1,65,100,235000
+primaticcio_000,1,80,5,270000
+primaticcio_000,1,65,6,198000
+primaticcio_000,1,65,100,215000
+primaticcio_000,1,80,8,254000
+primaticcio_001,1,43,0,150000
+primaticcio_001,1,60,-1 - 2,175000
+primaticcio_001,1,43,-1,132000
+primaticcio_001,1,61,8 - 9,220000
+primaticcio_001,1,56,0,200000
+primaticcio_001,1,45,-1,150000
+primaticcio_001,1,80,1,245000
+primaticcio_100,2,73,-1,210000
+primaticcio_101,2,75,6,250000
+tripoli - soderini_000,1,75,4,290000
+tripoli - soderini_000,1,60,4,225000
+lorenteggio_000,1,35,2,169000
+lorenteggio_000,1,60,4,245000
+lorenteggio_000,1,50,100,249000
+lorenteggio_000,1,55,2,199000
+lorenteggio_000,1,35,2,115000
+lorenteggio_000,1,60,2,235000
+lorenteggio_000,1,74,100,210000
+lorenteggio_001,1,45,1,145000
+lorenteggio_001,1,55,0,280000
+lorenteggio_001,1,70,1,299000
+lorenteggio_001,1,58,1,205000
+lorenteggio_001,1,63,1,190000
+bisceglie_000,1,74,3,206460
+bisceglie_100,2,108,6,300000
+san siro_000,1,55,1,290000
+san siro_001,1,55,5,250000
+frua_000,1,40,100,280000
+baggio_000,1,82,1,210000

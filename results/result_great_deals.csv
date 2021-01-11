@@ -1,0 +1,916 @@
+Cluster,Price,Url
+santa giulia_000,135000,https://www.immobiliare.it/annunci/80802597/
+santa giulia_000,160000,https://www.immobiliare.it/annunci/84786324/
+santa giulia_000,149000,https://www.immobiliare.it/annunci/83865778/
+santa giulia_000,110000,https://www.immobiliare.it/annunci/83216947/
+santa giulia_000,148000,https://www.immobiliare.it/annunci/80740297/
+santa giulia_000,113000,https://www.immobiliare.it/annunci/80710861/
+santa giulia_000,125000,https://www.immobiliare.it/annunci/84283212/
+santa giulia_001,139000,https://www.immobiliare.it/annunci/83964892/
+santa giulia_001,141000,https://www.immobiliare.it/annunci/82899307/
+santa giulia_001,148000,https://www.immobiliare.it/annunci/78565857/
+santa giulia_010,198000,https://www.immobiliare.it/annunci/81850376/
+ponte lambro_000,120000,https://www.immobiliare.it/annunci/79275525/
+ponte lambro_000,112000,https://www.immobiliare.it/annunci/78930913/
+ponte lambro_000,119000,https://www.immobiliare.it/annunci/79702789/
+ponte lambro_000,100000,https://www.immobiliare.it/annunci/84380362/
+ponte lambro_000,115000,https://www.immobiliare.it/annunci/82474648/
+ponte lambro_001,120000,https://www.immobiliare.it/annunci/82057500/
+ponte lambro_100,220000,https://www.immobiliare.it/annunci/83206027/
+rogoredo_000,110000,https://www.immobiliare.it/annunci/84178434/
+rogoredo_000,180000,https://www.immobiliare.it/annunci/81067781/
+rogoredo_001,209000,https://www.immobiliare.it/annunci/84616710/
+rogoredo_001,140000,https://www.immobiliare.it/annunci/83875310/
+rogoredo_001,175000,https://www.immobiliare.it/annunci/81205899/
+rogoredo_100,245000,https://www.immobiliare.it/annunci/79871957/
+rogoredo_101,295000,https://www.immobiliare.it/annunci/84335044/
+rogoredo_110,250000,https://www.immobiliare.it/annunci/82323760/
+niguarda_000,187500,https://www.immobiliare.it/annunci/84364328/
+niguarda_001,245000,https://www.immobiliare.it/annunci/81927476/
+niguarda_010,189000,https://www.immobiliare.it/annunci/84748194/
+niguarda_010,165000,https://www.immobiliare.it/annunci/84595164/
+niguarda_010,184000,https://www.immobiliare.it/annunci/83726107/
+niguarda_010,169000,https://www.immobiliare.it/annunci/81757170/
+niguarda_010,165000,https://www.immobiliare.it/annunci/81137371/
+niguarda_010,149000,https://www.immobiliare.it/annunci/75823828/
+niguarda_010,169000,https://www.immobiliare.it/annunci/73816664/
+niguarda_011,230000,https://www.immobiliare.it/annunci/80420869/
+niguarda_100,269000,https://www.immobiliare.it/annunci/84802020/
+niguarda_101,270000,https://www.immobiliare.it/annunci/70036988/
+prato centenaro_000,169000,https://www.immobiliare.it/annunci/79962667/
+prato centenaro_001,158000,https://www.immobiliare.it/annunci/81803408/
+prato centenaro_010,270000,https://www.immobiliare.it/annunci/84356702/
+ca' granda_000,200000,https://www.immobiliare.it/annunci/84734484/
+ca' granda_010,149000,https://www.immobiliare.it/annunci/78851279/
+ca' granda_100,85000,https://www.immobiliare.it/annunci/84657624/
+ca' granda_101,110000,https://www.immobiliare.it/annunci/82529526/
+istria_000,139000,https://www.immobiliare.it/annunci/80288499/
+istria_000,139000,https://www.immobiliare.it/annunci/83315013/
+istria_001,270000,https://www.immobiliare.it/annunci/83376851/
+istria_001,270000,https://www.immobiliare.it/annunci/83160791/
+bruzzano_000,85000,https://www.immobiliare.it/annunci/82736177/
+bruzzano_000,120000,https://www.immobiliare.it/annunci/81292047/
+bruzzano_000,139000,https://www.immobiliare.it/annunci/84486300/
+bruzzano_000,139000,https://www.immobiliare.it/annunci/82553898/
+bruzzano_000,134000,https://www.immobiliare.it/annunci/78957881/
+bruzzano_001,110000,https://www.immobiliare.it/annunci/81014667/
+bruzzano_001,95000,https://www.immobiliare.it/annunci/84628404/
+bruzzano_100,298000,https://www.immobiliare.it/annunci/79786629/
+bruzzano_101,290000,https://www.immobiliare.it/annunci/84613894/
+affori_000,109000,https://www.immobiliare.it/annunci/80684359/
+affori_000,120000,https://www.immobiliare.it/annunci/83455759/
+affori_000,85000,https://www.immobiliare.it/annunci/76367794/
+affori_000,168000,https://www.immobiliare.it/annunci/83313615/
+affori_000,150000,https://www.immobiliare.it/annunci/84202242/
+affori_000,159000,https://www.immobiliare.it/annunci/84246924/
+affori_000,100000,https://www.immobiliare.it/annunci/84364304/
+affori_000,150000,https://www.immobiliare.it/annunci/84743222/
+affori_000,105000,https://www.immobiliare.it/annunci/78840541/
+affori_000,145000,https://www.immobiliare.it/annunci/80427783/
+affori_000,89000,https://www.immobiliare.it/annunci/80265217/
+affori_000,160000,https://www.immobiliare.it/annunci/79525719/
+affori_000,135000,https://www.immobiliare.it/annunci/83049619/
+affori_000,159000,https://www.immobiliare.it/annunci/82712497/
+affori_000,139000,https://www.immobiliare.it/annunci/84411226/
+affori_000,125000,https://www.immobiliare.it/annunci/81298297/
+affori_000,135000,https://www.immobiliare.it/annunci/79516587/
+affori_000,125000,https://www.immobiliare.it/annunci/84112514/
+affori_000,129000,https://www.immobiliare.it/annunci/78393485/
+affori_000,105000,https://www.immobiliare.it/annunci/84588504/
+affori_000,149000,https://www.immobiliare.it/annunci/84367030/
+affori_000,139000,https://www.immobiliare.it/annunci/81588671/
+affori_000,139000,https://www.immobiliare.it/annunci/83267087/
+affori_000,159000,https://www.immobiliare.it/annunci/84731274/
+affori_000,115000,https://www.immobiliare.it/annunci/82023368/
+affori_000,155000,https://www.immobiliare.it/annunci/83900588/
+affori_001,149000,https://www.immobiliare.it/annunci/84755170/
+affori_001,145000,https://www.immobiliare.it/annunci/75755124/
+affori_001,125000,https://www.immobiliare.it/annunci/83378473/
+affori_001,150000,https://www.immobiliare.it/annunci/84799772/
+affori_001,145000,https://www.immobiliare.it/annunci/83765183/
+affori_001,149000,https://www.immobiliare.it/annunci/84322172/
+affori_001,150000,https://www.immobiliare.it/annunci/81731020/
+affori_001,105000,https://www.immobiliare.it/annunci/81656840/
+affori_001,115000,https://www.immobiliare.it/annunci/82258698/
+affori_001,145000,https://www.immobiliare.it/annunci/81537821/
+affori_001,125000,https://www.immobiliare.it/annunci/83428703/
+affori_001,149000,https://www.immobiliare.it/annunci/84803570/
+affori_001,152000,https://www.immobiliare.it/annunci/76257906/
+affori_001,109000,https://www.immobiliare.it/annunci/83599971/
+affori_001,129000,https://www.immobiliare.it/annunci/82877255/
+affori_001,149000,https://www.immobiliare.it/annunci/81697946/
+affori_100,175000,https://www.immobiliare.it/annunci/83455487/
+affori_100,207000,https://www.immobiliare.it/annunci/72321460/
+affori_101,148000,https://www.immobiliare.it/annunci/84336998/
+affori_101,148000,https://www.immobiliare.it/annunci/83391321/
+affori_110,259000,https://www.immobiliare.it/annunci/84340186/
+affori_110,259000,https://www.immobiliare.it/annunci/84329618/
+affori_110,259000,https://www.immobiliare.it/annunci/84210810/
+affori_110,259000,https://www.immobiliare.it/annunci/84366558/
+affori_110,259000,https://www.immobiliare.it/annunci/81481741/
+affori_111,265000,https://www.immobiliare.it/annunci/82383052/
+greco - segnano_000,123000,https://www.immobiliare.it/annunci/83201675/
+greco - segnano_000,185000,https://www.immobiliare.it/annunci/84611270/
+greco - segnano_000,190000,https://www.immobiliare.it/annunci/84610656/
+greco - segnano_000,98000,https://www.immobiliare.it/annunci/84683466/
+greco - segnano_001,139000,https://www.immobiliare.it/annunci/83518243/
+greco - segnano_001,159000,https://www.immobiliare.it/annunci/84714170/
+greco - segnano_001,155000,https://www.immobiliare.it/annunci/84382478/
+greco - segnano_100,290000,https://www.immobiliare.it/annunci/74970100/
+greco - segnano_101,185000,https://www.immobiliare.it/annunci/84610570/
+precotto_000,175000,https://www.immobiliare.it/annunci/84357442/
+bicocca_000,130000,https://www.immobiliare.it/annunci/83275097/
+bicocca_001,185000,https://www.immobiliare.it/annunci/81886664/
+bicocca_001,208000,https://www.immobiliare.it/annunci/84436920/
+bignami - ponale_000,175000,https://www.immobiliare.it/annunci/80994409/
+bignami - ponale_100,180000,https://www.immobiliare.it/annunci/82495182/
+bignami - ponale_100,168000,https://www.immobiliare.it/annunci/82718159/
+bignami - ponale_100,210000,https://www.immobiliare.it/annunci/83826530/
+bignami - ponale_101,178000,https://www.immobiliare.it/annunci/83573933/
+quartiere forlanini_000,159500,https://www.immobiliare.it/annunci/74049818/
+quartiere forlanini_000,169000,https://www.immobiliare.it/annunci/72099686/
+quartiere forlanini_000,169000,https://www.immobiliare.it/annunci/84570286/
+quartiere forlanini_000,169000,https://www.immobiliare.it/annunci/81109347/
+quartiere forlanini_001,138000,https://www.immobiliare.it/annunci/69274240/
+quartiere forlanini_001,180000,https://www.immobiliare.it/annunci/80024333/
+quartiere forlanini_001,200000,https://www.immobiliare.it/annunci/71193942/
+quartiere forlanini_001,155000,https://www.immobiliare.it/annunci/84722842/
+quartiere forlanini_001,195000,https://www.immobiliare.it/annunci/73104680/
+quartiere forlanini_010,219000,https://www.immobiliare.it/annunci/80742027/
+quartiere forlanini_010,240000,https://www.immobiliare.it/annunci/71685466/
+quartiere forlanini_011,245000,https://www.immobiliare.it/annunci/80262391/
+quartiere forlanini_100,269000,https://www.immobiliare.it/annunci/83788410/
+quartiere forlanini_100,269000,https://www.immobiliare.it/annunci/77110378/
+quartiere forlanini_101,300000,https://www.immobiliare.it/annunci/84210960/
+viale ungheria - mecenate_000,185000,https://www.immobiliare.it/annunci/81047843/
+viale ungheria - mecenate_000,103000,https://www.immobiliare.it/annunci/79160405/
+viale ungheria - mecenate_000,200000,https://www.immobiliare.it/annunci/83602755/
+viale ungheria - mecenate_000,155000,https://www.immobiliare.it/annunci/84727570/
+viale ungheria - mecenate_000,185000,https://www.immobiliare.it/annunci/84561518/
+viale ungheria - mecenate_001,131000,https://www.immobiliare.it/annunci/83946028/
+viale ungheria - mecenate_001,145000,https://www.immobiliare.it/annunci/77350212/
+viale ungheria - mecenate_001,139000,https://www.immobiliare.it/annunci/81729656/
+viale ungheria - mecenate_010,209000,https://www.immobiliare.it/annunci/83911900/
+viale ungheria - mecenate_100,175000,https://www.immobiliare.it/annunci/84235008/
+_000,177000,https://www.immobiliare.it/annunci/83966142/
+parco trotter_000,228000,https://www.immobiliare.it/annunci/82390476/
+parco trotter_001,228000,https://www.immobiliare.it/annunci/81294549/
+parco trotter_010,58000,https://www.immobiliare.it/annunci/78706643/
+parco trotter_010,139000,https://www.immobiliare.it/annunci/83165371/
+parco trotter_010,122000,https://www.immobiliare.it/annunci/84725876/
+parco trotter_010,138000,https://www.immobiliare.it/annunci/82587801/
+parco trotter_010,69000,https://www.immobiliare.it/annunci/81278137/
+parco trotter_010,104000,https://www.immobiliare.it/annunci/82418680/
+parco trotter_010,80000,https://www.immobiliare.it/annunci/83870000/
+parco trotter_010,115000,https://www.immobiliare.it/annunci/83176281/
+parco trotter_010,20250,https://www.immobiliare.it/annunci/84868096/
+parco trotter_010,149000,https://www.immobiliare.it/annunci/83153729/
+parco trotter_010,150000,https://www.immobiliare.it/annunci/84612220/
+parco trotter_011,126000,https://www.immobiliare.it/annunci/84343160/
+parco trotter_011,115000,https://www.immobiliare.it/annunci/84258414/
+parco trotter_011,155000,https://www.immobiliare.it/annunci/82589819/
+parco trotter_011,170000,https://www.immobiliare.it/annunci/84330846/
+parco trotter_011,140000,https://www.immobiliare.it/annunci/84612030/
+parco trotter_011,80000,https://www.immobiliare.it/annunci/83323651/
+parco trotter_011,139000,https://www.immobiliare.it/annunci/84238830/
+parco trotter_011,115000,https://www.immobiliare.it/annunci/84650116/
+parco trotter_011,170000,https://www.immobiliare.it/annunci/79194697/
+parco trotter_011,119000,https://www.immobiliare.it/annunci/82721291/
+parco trotter_011,89000,https://www.immobiliare.it/annunci/80224147/
+parco trotter_011,89000,https://www.immobiliare.it/annunci/83430021/
+parco trotter_011,180000,https://www.immobiliare.it/annunci/83030917/
+parco trotter_011,175000,https://www.immobiliare.it/annunci/84511230/
+parco trotter_011,126000,https://www.immobiliare.it/annunci/84401726/
+parco trotter_011,144000,https://www.immobiliare.it/annunci/84603432/
+parco trotter_100,228000,https://www.immobiliare.it/annunci/84868022/
+parco trotter_100,228000,https://www.immobiliare.it/annunci/83546403/
+parco trotter_100,228000,https://www.immobiliare.it/annunci/82927305/
+parco trotter_101,228000,https://www.immobiliare.it/annunci/83232593/
+parco trotter_101,228000,https://www.immobiliare.it/annunci/84642740/
+parco trotter_101,228000,https://www.immobiliare.it/annunci/83160623/
+parco trotter_101,228000,https://www.immobiliare.it/annunci/83703251/
+parco trotter_110,139000,https://www.immobiliare.it/annunci/83531341/
+parco trotter_111,79000,https://www.immobiliare.it/annunci/83013837/
+centrale_000,248000,https://www.immobiliare.it/annunci/84628618/
+centrale_001,250000,https://www.immobiliare.it/annunci/84031150/
+centrale_001,248000,https://www.immobiliare.it/annunci/84108036/
+pasteur_000,229000,https://www.immobiliare.it/annunci/84169312/
+pasteur_000,229000,https://www.immobiliare.it/annunci/84824040/
+pasteur_000,219000,https://www.immobiliare.it/annunci/84390850/
+pasteur_000,198000,https://www.immobiliare.it/annunci/84661142/
+pasteur_000,198000,https://www.immobiliare.it/annunci/84689296/
+pasteur_000,195000,https://www.immobiliare.it/annunci/84635708/
+pasteur_000,143000,https://www.immobiliare.it/annunci/80033655/
+pasteur_000,195000,https://www.immobiliare.it/annunci/84635962/
+pasteur_000,210000,https://www.immobiliare.it/annunci/83235091/
+pasteur_000,189000,https://www.immobiliare.it/annunci/84611422/
+pasteur_000,200000,https://www.immobiliare.it/annunci/82996653/
+pasteur_001,195000,https://www.immobiliare.it/annunci/78881085/
+pasteur_001,90000,https://www.immobiliare.it/annunci/84183838/
+pasteur_001,206000,https://www.immobiliare.it/annunci/83816608/
+pasteur_001,170000,https://www.immobiliare.it/annunci/83378703/
+pasteur_001,198000,https://www.immobiliare.it/annunci/84684768/
+pasteur_001,219000,https://www.immobiliare.it/annunci/84683206/
+pasteur_001,169000,https://www.immobiliare.it/annunci/84688920/
+pasteur_001,206000,https://www.immobiliare.it/annunci/81884014/
+pasteur_001,160000,https://www.immobiliare.it/annunci/79004179/
+pasteur_001,200000,https://www.immobiliare.it/annunci/84724930/
+pasteur_001,148000,https://www.immobiliare.it/annunci/83968166/
+pasteur_001,132660,https://www.immobiliare.it/annunci/80035023/
+pasteur_001,180000,https://www.immobiliare.it/annunci/84860000/
+pasteur_001,160000,https://www.immobiliare.it/annunci/84295820/
+pasteur_001,146000,https://www.immobiliare.it/annunci/80034241/
+pasteur_001,198000,https://www.immobiliare.it/annunci/84687748/
+pasteur_001,127500,https://www.immobiliare.it/annunci/80035097/
+pasteur_001,138000,https://www.immobiliare.it/annunci/80035065/
+pasteur_001,158000,https://www.immobiliare.it/annunci/82768729/
+pasteur_001,155000,https://www.immobiliare.it/annunci/80035189/
+pasteur_001,175000,https://www.immobiliare.it/annunci/84096324/
+pasteur_001,195000,https://www.immobiliare.it/annunci/81932208/
+pasteur_001,195000,https://www.immobiliare.it/annunci/60076218/
+pasteur_001,198000,https://www.immobiliare.it/annunci/83379165/
+pasteur_001,206000,https://www.immobiliare.it/annunci/84296230/
+pasteur_001,199000,https://www.immobiliare.it/annunci/84006500/
+pasteur_001,125000,https://www.immobiliare.it/annunci/84683006/
+pasteur_001,219000,https://www.immobiliare.it/annunci/83465135/
+pasteur_001,195000,https://www.immobiliare.it/annunci/84574408/
+pasteur_100,277000,https://www.immobiliare.it/annunci/81345589/
+udine_000,199000,https://www.immobiliare.it/annunci/84085982/
+udine_000,199000,https://www.immobiliare.it/annunci/84085450/
+rovereto_000,200000,https://www.immobiliare.it/annunci/84079030/
+rovereto_000,200000,https://www.immobiliare.it/annunci/84546422/
+rovereto_000,130000,https://www.immobiliare.it/annunci/82663795/
+rovereto_000,155000,https://www.immobiliare.it/annunci/80179187/
+rovereto_000,195000,https://www.immobiliare.it/annunci/83430099/
+rovereto_000,170000,https://www.immobiliare.it/annunci/84616746/
+rovereto_000,155000,https://www.immobiliare.it/annunci/84862422/
+rovereto_000,70200,https://www.immobiliare.it/annunci/82670309/
+rovereto_000,200000,https://www.immobiliare.it/annunci/84148198/
+rovereto_000,195000,https://www.immobiliare.it/annunci/83452437/
+rovereto_001,178000,https://www.immobiliare.it/annunci/78500625/
+rovereto_001,99000,https://www.immobiliare.it/annunci/81125129/
+rovereto_001,68000,https://www.immobiliare.it/annunci/84364640/
+rovereto_001,185000,https://www.immobiliare.it/annunci/83123093/
+rovereto_001,200000,https://www.immobiliare.it/annunci/84128170/
+rovereto_001,160000,https://www.immobiliare.it/annunci/83051349/
+rovereto_001,109000,https://www.immobiliare.it/annunci/83589929/
+rovereto_001,140000,https://www.immobiliare.it/annunci/80219609/
+rovereto_001,149000,https://www.immobiliare.it/annunci/84223028/
+rovereto_001,200000,https://www.immobiliare.it/annunci/83277709/
+rovereto_001,178000,https://www.immobiliare.it/annunci/80994613/
+rovereto_010,290000,https://www.immobiliare.it/annunci/82363656/
+rovereto_100,295000,https://www.immobiliare.it/annunci/80836657/
+rovereto_110,277000,https://www.immobiliare.it/annunci/81598133/
+rovereto_111,210000,https://www.immobiliare.it/annunci/81250415/
+casoretto_000,270000,https://www.immobiliare.it/annunci/83555739/
+casoretto_001,249000,https://www.immobiliare.it/annunci/84754892/
+buenos aires_000,248000,https://www.immobiliare.it/annunci/84489068/
+cascina merlata - musocco_000,135000,https://www.immobiliare.it/annunci/82361616/
+cascina merlata - musocco_000,175000,https://www.immobiliare.it/annunci/84214560/
+cascina merlata - musocco_000,180000,https://www.immobiliare.it/annunci/84214558/
+cascina merlata - musocco_000,165000,https://www.immobiliare.it/annunci/80202917/
+cascina merlata - musocco_000,145000,https://www.immobiliare.it/annunci/81053081/
+cascina merlata - musocco_001,147000,https://www.immobiliare.it/annunci/84214564/
+cascina merlata - musocco_001,102000,https://www.immobiliare.it/annunci/84637738/
+cascina merlata - musocco_001,169000,https://www.immobiliare.it/annunci/84782214/
+cascina merlata - musocco_001,155000,https://www.immobiliare.it/annunci/83865718/
+cascina merlata - musocco_001,105000,https://www.immobiliare.it/annunci/80810957/
+cascina merlata - musocco_001,150000,https://www.immobiliare.it/annunci/82074996/
+cascina merlata - musocco_010,195000,https://www.immobiliare.it/annunci/81091679/
+cascina merlata - musocco_011,225000,https://www.immobiliare.it/annunci/83289841/
+cascina merlata - musocco_100,288000,https://www.immobiliare.it/annunci/84236772/
+cascina merlata - musocco_110,228000,https://www.immobiliare.it/annunci/84569380/
+cascina merlata - musocco_110,246000,https://www.immobiliare.it/annunci/59015426/
+cascina merlata - musocco_111,213000,https://www.immobiliare.it/annunci/84730870/
+certosa_000,158000,https://www.immobiliare.it/annunci/83371911/
+certosa_000,130000,https://www.immobiliare.it/annunci/84486224/
+certosa_000,138000,https://www.immobiliare.it/annunci/73488104/
+certosa_000,170000,https://www.immobiliare.it/annunci/84525806/
+certosa_000,169000,https://www.immobiliare.it/annunci/84436138/
+certosa_000,95000,https://www.immobiliare.it/annunci/77475922/
+certosa_000,187000,https://www.immobiliare.it/annunci/84583730/
+certosa_000,140000,https://www.immobiliare.it/annunci/79657429/
+certosa_000,165000,https://www.immobiliare.it/annunci/83864934/
+certosa_000,178000,https://www.immobiliare.it/annunci/83003023/
+certosa_000,160000,https://www.immobiliare.it/annunci/81831394/
+certosa_000,189000,https://www.immobiliare.it/annunci/79095133/
+certosa_000,128000,https://www.immobiliare.it/annunci/84338104/
+certosa_000,180000,https://www.immobiliare.it/annunci/77723894/
+certosa_000,165000,https://www.immobiliare.it/annunci/84571812/
+certosa_000,142000,https://www.immobiliare.it/annunci/83937938/
+certosa_000,115000,https://www.immobiliare.it/annunci/83366405/
+certosa_000,142000,https://www.immobiliare.it/annunci/78810903/
+certosa_001,135000,https://www.immobiliare.it/annunci/83512211/
+certosa_001,185000,https://www.immobiliare.it/annunci/84859276/
+certosa_001,160000,https://www.immobiliare.it/annunci/83461131/
+certosa_001,127000,https://www.immobiliare.it/annunci/84059016/
+certosa_001,125000,https://www.immobiliare.it/annunci/84681070/
+certosa_001,185000,https://www.immobiliare.it/annunci/84732988/
+certosa_001,159000,https://www.immobiliare.it/annunci/84505936/
+certosa_001,170000,https://www.immobiliare.it/annunci/84805142/
+certosa_001,115000,https://www.immobiliare.it/annunci/84435520/
+certosa_001,169000,https://www.immobiliare.it/annunci/75818336/
+certosa_001,185000,https://www.immobiliare.it/annunci/84364050/
+certosa_001,185000,https://www.immobiliare.it/annunci/84653730/
+certosa_001,178000,https://www.immobiliare.it/annunci/83452365/
+certosa_001,144000,https://www.immobiliare.it/annunci/83923192/
+certosa_001,187000,https://www.immobiliare.it/annunci/84591684/
+certosa_001,188000,https://www.immobiliare.it/annunci/81428359/
+certosa_001,165000,https://www.immobiliare.it/annunci/81123749/
+certosa_001,185000,https://www.immobiliare.it/annunci/83165223/
+certosa_001,108000,https://www.immobiliare.it/annunci/82288740/
+certosa_001,100000,https://www.immobiliare.it/annunci/82978917/
+certosa_001,85000,https://www.immobiliare.it/annunci/84377788/
+certosa_001,145000,https://www.immobiliare.it/annunci/79378763/
+certosa_001,149000,https://www.immobiliare.it/annunci/84681268/
+certosa_001,85000,https://www.immobiliare.it/annunci/83189745/
+certosa_001,188000,https://www.immobiliare.it/annunci/83935294/
+certosa_001,145000,https://www.immobiliare.it/annunci/84008654/
+certosa_001,189000,https://www.immobiliare.it/annunci/80704885/
+certosa_001,99000,https://www.immobiliare.it/annunci/83045121/
+certosa_001,138000,https://www.immobiliare.it/annunci/81382111/
+certosa_001,188000,https://www.immobiliare.it/annunci/83531557/
+certosa_001,175000,https://www.immobiliare.it/annunci/84569362/
+certosa_001,159000,https://www.immobiliare.it/annunci/82605829/
+certosa_001,150000,https://www.immobiliare.it/annunci/84635892/
+certosa_001,185000,https://www.immobiliare.it/annunci/83663407/
+certosa_001,145000,https://www.immobiliare.it/annunci/82732809/
+certosa_001,169000,https://www.immobiliare.it/annunci/82786925/
+certosa_001,169000,https://www.immobiliare.it/annunci/81376999/
+certosa_001,163000,https://www.immobiliare.it/annunci/84381162/
+certosa_001,169000,https://www.immobiliare.it/annunci/82734045/
+certosa_001,99000,https://www.immobiliare.it/annunci/82298398/
+certosa_001,115000,https://www.immobiliare.it/annunci/83533911/
+certosa_010,210000,https://www.immobiliare.it/annunci/83447023/
+certosa_010,209000,https://www.immobiliare.it/annunci/83058259/
+certosa_010,210000,https://www.immobiliare.it/annunci/82225758/
+certosa_011,250000,https://www.immobiliare.it/annunci/72420418/
+certosa_011,240000,https://www.immobiliare.it/annunci/83056733/
+certosa_011,258000,https://www.immobiliare.it/annunci/81648286/
+certosa_100,195000,https://www.immobiliare.it/annunci/84468270/
+certosa_100,199000,https://www.immobiliare.it/annunci/81911604/
+certosa_101,75000,https://www.immobiliare.it/annunci/83182971/
+certosa_110,240000,https://www.immobiliare.it/annunci/78857315/
+certosa_110,210000,https://www.immobiliare.it/annunci/84592022/
+certosa_111,278000,https://www.immobiliare.it/annunci/84530176/
+gallaratese_000,299000,https://www.immobiliare.it/annunci/78178628/
+gallaratese_001,285000,https://www.immobiliare.it/annunci/84179410/
+gallaratese_100,175000,https://www.immobiliare.it/annunci/84048470/
+gallaratese_101,95000,https://www.immobiliare.it/annunci/83002031/
+quarto oggiaro_000,40000,https://www.immobiliare.it/annunci/83747071/
+quarto oggiaro_000,55000,https://www.immobiliare.it/annunci/84716650/
+quarto oggiaro_000,130000,https://www.immobiliare.it/annunci/84238812/
+quarto oggiaro_000,79000,https://www.immobiliare.it/annunci/79676693/
+quarto oggiaro_000,89000,https://www.immobiliare.it/annunci/83702381/
+quarto oggiaro_000,58000,https://www.immobiliare.it/annunci/81506191/
+quarto oggiaro_000,129000,https://www.immobiliare.it/annunci/81081519/
+quarto oggiaro_001,125000,https://www.immobiliare.it/annunci/79627515/
+quarto oggiaro_001,140000,https://www.immobiliare.it/annunci/83120149/
+quarto oggiaro_001,140000,https://www.immobiliare.it/annunci/83023181/
+quarto oggiaro_001,139000,https://www.immobiliare.it/annunci/84366536/
+quarto oggiaro_001,109000,https://www.immobiliare.it/annunci/83033743/
+quarto oggiaro_001,125000,https://www.immobiliare.it/annunci/83732019/
+quarto oggiaro_001,130000,https://www.immobiliare.it/annunci/84861658/
+quarto oggiaro_001,149000,https://www.immobiliare.it/annunci/84822266/
+quarto oggiaro_001,149000,https://www.immobiliare.it/annunci/84828568/
+quarto oggiaro_001,138000,https://www.immobiliare.it/annunci/82942323/
+quarto oggiaro_001,112000,https://www.immobiliare.it/annunci/84885656/
+quarto oggiaro_001,145000,https://www.immobiliare.it/annunci/84613976/
+quarto oggiaro_001,120000,https://www.immobiliare.it/annunci/84062028/
+quarto oggiaro_001,120000,https://www.immobiliare.it/annunci/83623591/
+quarto oggiaro_010,175000,https://www.immobiliare.it/annunci/81968938/
+quarto oggiaro_011,248000,https://www.immobiliare.it/annunci/76835492/
+quarto oggiaro_100,120000,https://www.immobiliare.it/annunci/82297658/
+quarto oggiaro_101,130000,https://www.immobiliare.it/annunci/81873988/
+quarto oggiaro_110,265000,https://www.immobiliare.it/annunci/83298117/
+quarto oggiaro_111,289000,https://www.immobiliare.it/annunci/75022582/
+vialba_000,59000,https://www.immobiliare.it/annunci/84259080/
+vialba_000,93000,https://www.immobiliare.it/annunci/84741432/
+vialba_000,82000,https://www.immobiliare.it/annunci/82825635/
+vialba_000,128000,https://www.immobiliare.it/annunci/81428947/
+vialba_000,92000,https://www.immobiliare.it/annunci/82540060/
+vialba_000,120000,https://www.immobiliare.it/annunci/84339486/
+vialba_001,90000,https://www.immobiliare.it/annunci/82999003/
+vialba_001,95000,https://www.immobiliare.it/annunci/84646960/
+vialba_001,80000,https://www.immobiliare.it/annunci/49791883/
+vialba_001,120000,https://www.immobiliare.it/annunci/82463386/
+vialba_001,110000,https://www.immobiliare.it/annunci/83790122/
+vialba_001,125000,https://www.immobiliare.it/annunci/82283080/
+vialba_001,120000,https://www.immobiliare.it/annunci/83872480/
+vialba_010,170000,https://www.immobiliare.it/annunci/84647324/
+vialba_100,195000,https://www.immobiliare.it/annunci/81780528/
+bovisa_000,169000,https://www.immobiliare.it/annunci/84856976/
+bovisa_000,125000,https://www.immobiliare.it/annunci/82386068/
+bovisa_000,149000,https://www.immobiliare.it/annunci/83294153/
+bovisa_000,145000,https://www.immobiliare.it/annunci/84060608/
+bovisa_000,130000,https://www.immobiliare.it/annunci/83031723/
+bovisa_000,135000,https://www.immobiliare.it/annunci/84782794/
+bovisa_000,160000,https://www.immobiliare.it/annunci/82520096/
+bovisa_000,172000,https://www.immobiliare.it/annunci/83268345/
+bovisa_000,129000,https://www.immobiliare.it/annunci/83319843/
+bovisa_000,107000,https://www.immobiliare.it/annunci/79929471/
+bovisa_000,172000,https://www.immobiliare.it/annunci/82720607/
+bovisa_000,98000,https://www.immobiliare.it/annunci/81535831/
+bovisa_000,116000,https://www.immobiliare.it/annunci/83537945/
+bovisa_001,110000,https://www.immobiliare.it/annunci/83776373/
+bovisa_001,180000,https://www.immobiliare.it/annunci/81785576/
+bovisa_001,115000,https://www.immobiliare.it/annunci/84250368/
+bovisa_001,145000,https://www.immobiliare.it/annunci/83451349/
+bovisa_001,139000,https://www.immobiliare.it/annunci/82813433/
+bovisa_001,155000,https://www.immobiliare.it/annunci/84060972/
+bovisa_001,162000,https://www.immobiliare.it/annunci/83740007/
+bovisa_001,175000,https://www.immobiliare.it/annunci/83793202/
+bovisa_001,115000,https://www.immobiliare.it/annunci/84567296/
+bovisa_001,180000,https://www.immobiliare.it/annunci/84366650/
+bovisa_001,164000,https://www.immobiliare.it/annunci/84256592/
+bovisa_001,165000,https://www.immobiliare.it/annunci/82325476/
+bovisa_001,169000,https://www.immobiliare.it/annunci/82462368/
+bovisa_001,160000,https://www.immobiliare.it/annunci/81615454/
+bovisa_001,178000,https://www.immobiliare.it/annunci/79246229/
+bovisa_001,115000,https://www.immobiliare.it/annunci/82680663/
+bovisa_001,150000,https://www.immobiliare.it/annunci/84567288/
+bovisa_001,149000,https://www.immobiliare.it/annunci/83920690/
+bovisa_001,185000,https://www.immobiliare.it/annunci/84390858/
+bovisa_001,129000,https://www.immobiliare.it/annunci/84060368/
+bovisa_001,179000,https://www.immobiliare.it/annunci/83030437/
+bovisa_001,138000,https://www.immobiliare.it/annunci/84249752/
+bovisa_001,160000,https://www.immobiliare.it/annunci/82686093/
+bovisa_001,110000,https://www.immobiliare.it/annunci/81168765/
+bovisa_001,98000,https://www.immobiliare.it/annunci/84787854/
+bovisa_001,155000,https://www.immobiliare.it/annunci/84728970/
+bovisa_001,138000,https://www.immobiliare.it/annunci/83076117/
+bovisa_001,138000,https://www.immobiliare.it/annunci/82745515/
+bovisa_010,251000,https://www.immobiliare.it/annunci/79786631/
+bovisa_011,299000,https://www.immobiliare.it/annunci/82760083/
+bovisa_011,299000,https://www.immobiliare.it/annunci/82524216/
+bovisa_100,255000,https://www.immobiliare.it/annunci/84484670/
+bovisa_100,255000,https://www.immobiliare.it/annunci/60974710/
+bovisa_101,297000,https://www.immobiliare.it/annunci/79357197/
+bovisa_110,143000,https://www.immobiliare.it/annunci/83051087/
+bovisa_111,165000,https://www.immobiliare.it/annunci/83607753/
+roserio_000,187000,https://www.immobiliare.it/annunci/79204405/
+roserio_010,195000,https://www.immobiliare.it/annunci/80291681/
+roserio_100,122000,https://www.immobiliare.it/annunci/79431027/
+roserio_101,111000,https://www.immobiliare.it/annunci/84324730/
+roserio_101,179000,https://www.immobiliare.it/annunci/82793439/
+roserio_110,120000,https://www.immobiliare.it/annunci/83487589/
+roserio_110,99500,https://www.immobiliare.it/annunci/81598785/
+roserio_110,139000,https://www.immobiliare.it/annunci/83936268/
+roserio_110,123000,https://www.immobiliare.it/annunci/83732035/
+roserio_110,115000,https://www.immobiliare.it/annunci/84299838/
+roserio_111,138000,https://www.immobiliare.it/annunci/84237450/
+comasina_000,168,https://www.immobiliare.it/annunci/84822114/
+comasina_000,107000,https://www.immobiliare.it/annunci/83004421/
+comasina_000,148000,https://www.immobiliare.it/annunci/84822112/
+comasina_000,120000,https://www.immobiliare.it/annunci/81553191/
+comasina_000,120000,https://www.immobiliare.it/annunci/82718757/
+comasina_000,140000,https://www.immobiliare.it/annunci/80715521/
+comasina_000,148000,https://www.immobiliare.it/annunci/81020045/
+comasina_000,155000,https://www.immobiliare.it/annunci/80201851/
+comasina_000,119000,https://www.immobiliare.it/annunci/84800270/
+comasina_001,120000,https://www.immobiliare.it/annunci/81611537/
+comasina_001,145000,https://www.immobiliare.it/annunci/84228436/
+comasina_001,169000,https://www.immobiliare.it/annunci/83982018/
+comasina_010,250000,https://www.immobiliare.it/annunci/77753560/
+comasina_011,240000,https://www.immobiliare.it/annunci/61474974/
+comasina_011,240000,https://www.immobiliare.it/annunci/84685626/
+dergano_000,165000,https://www.immobiliare.it/annunci/84460488/
+dergano_000,150000,https://www.immobiliare.it/annunci/83662761/
+dergano_000,119000,https://www.immobiliare.it/annunci/84060950/
+dergano_000,50250,https://www.immobiliare.it/annunci/84382380/
+dergano_000,139000,https://www.immobiliare.it/annunci/82594147/
+dergano_000,128000,https://www.immobiliare.it/annunci/83517461/
+dergano_000,160000,https://www.immobiliare.it/annunci/83236415/
+dergano_000,89000,https://www.immobiliare.it/annunci/82902125/
+dergano_000,119000,https://www.immobiliare.it/annunci/82579741/
+dergano_000,108000,https://www.immobiliare.it/annunci/84205198/
+dergano_000,150000,https://www.immobiliare.it/annunci/84831224/
+dergano_000,109000,https://www.immobiliare.it/annunci/83840032/
+dergano_000,169000,https://www.immobiliare.it/annunci/83044821/
+dergano_000,129000,https://www.immobiliare.it/annunci/82297424/
+dergano_000,119000,https://www.immobiliare.it/annunci/84787652/
+dergano_000,69000,https://www.immobiliare.it/annunci/75930700/
+dergano_000,119000,https://www.immobiliare.it/annunci/82388184/
+dergano_000,145000,https://www.immobiliare.it/annunci/82575497/
+dergano_000,168000,https://www.immobiliare.it/annunci/84256516/
+dergano_000,160000,https://www.immobiliare.it/annunci/84189960/
+dergano_000,165000,https://www.immobiliare.it/annunci/84573570/
+dergano_000,119000,https://www.immobiliare.it/annunci/80996063/
+dergano_000,178000,https://www.immobiliare.it/annunci/84780668/
+dergano_001,84000,https://www.immobiliare.it/annunci/83632087/
+dergano_001,119000,https://www.immobiliare.it/annunci/84868938/
+dergano_001,113000,https://www.immobiliare.it/annunci/84381350/
+dergano_001,95000,https://www.immobiliare.it/annunci/84185288/
+dergano_001,165000,https://www.immobiliare.it/annunci/84854620/
+dergano_001,176000,https://www.immobiliare.it/annunci/84552782/
+dergano_001,112000,https://www.immobiliare.it/annunci/79092709/
+dergano_001,150000,https://www.immobiliare.it/annunci/81261555/
+dergano_001,157000,https://www.immobiliare.it/annunci/83164967/
+dergano_001,129000,https://www.immobiliare.it/annunci/79133173/
+dergano_001,170000,https://www.immobiliare.it/annunci/83098811/
+dergano_001,170000,https://www.immobiliare.it/annunci/83509071/
+dergano_001,175000,https://www.immobiliare.it/annunci/83726351/
+dergano_001,175000,https://www.immobiliare.it/annunci/84389190/
+dergano_001,170000,https://www.immobiliare.it/annunci/84523984/
+dergano_001,125000,https://www.immobiliare.it/annunci/82366800/
+dergano_001,118000,https://www.immobiliare.it/annunci/84498374/
+dergano_001,146000,https://www.immobiliare.it/annunci/73849610/
+dergano_001,120000,https://www.immobiliare.it/annunci/81324757/
+dergano_001,125000,https://www.immobiliare.it/annunci/84029726/
+dergano_001,135000,https://www.immobiliare.it/annunci/82974385/
+dergano_001,79000,https://www.immobiliare.it/annunci/82584645/
+dergano_001,160000,https://www.immobiliare.it/annunci/69591152/
+dergano_010,250000,https://www.immobiliare.it/annunci/52668415/
+dergano_011,279000,https://www.immobiliare.it/annunci/83180987/
+dergano_100,270000,https://www.immobiliare.it/annunci/82557917/
+dergano_101,260000,https://www.immobiliare.it/annunci/78297073/
+dergano_110,119000,https://www.immobiliare.it/annunci/84592764/
+bovisasca_000,255000,https://www.immobiliare.it/annunci/72048254/
+bovisasca_010,228000,https://www.immobiliare.it/annunci/81828236/
+bovisasca_100,148000,https://www.immobiliare.it/annunci/83543057/
+bovisasca_101,75000,https://www.immobiliare.it/annunci/83318933/
+bovisasca_101,128000,https://www.immobiliare.it/annunci/84585032/
+bovisasca_110,270000,https://www.immobiliare.it/annunci/84627618/
+farini_000,198000,https://www.immobiliare.it/annunci/83183925/
+farini_000,199000,https://www.immobiliare.it/annunci/83999414/
+farini_001,225000,https://www.immobiliare.it/annunci/83028099/
+farini_001,165000,https://www.immobiliare.it/annunci/83379129/
+farini_001,175000,https://www.immobiliare.it/annunci/84869528/
+farini_001,215000,https://www.immobiliare.it/annunci/84037514/
+farini_001,230000,https://www.immobiliare.it/annunci/79350737/
+farini_001,179000,https://www.immobiliare.it/annunci/83774073/
+farini_001,210000,https://www.immobiliare.it/annunci/84160956/
+farini_001,129000,https://www.immobiliare.it/annunci/83460773/
+farini_100,249000,https://www.immobiliare.it/annunci/84857878/
+tre castelli - faenza_000,163000,https://www.immobiliare.it/annunci/75527390/
+tre castelli - faenza_000,125000,https://www.immobiliare.it/annunci/79756893/
+tre castelli - faenza_000,180000,https://www.immobiliare.it/annunci/84233220/
+tre castelli - faenza_000,175000,https://www.immobiliare.it/annunci/81482979/
+tre castelli - faenza_000,119000,https://www.immobiliare.it/annunci/80464229/
+tre castelli - faenza_000,125000,https://www.immobiliare.it/annunci/74754780/
+tre castelli - faenza_000,105000,https://www.immobiliare.it/annunci/71644688/
+tre castelli - faenza_000,115000,https://www.immobiliare.it/annunci/74811390/
+tre castelli - faenza_000,125000,https://www.immobiliare.it/annunci/81017767/
+tre castelli - faenza_000,157000,https://www.immobiliare.it/annunci/80926673/
+tre castelli - faenza_000,160000,https://www.immobiliare.it/annunci/84484422/
+tre castelli - faenza_000,165000,https://www.immobiliare.it/annunci/83892480/
+tre castelli - faenza_000,170000,https://www.immobiliare.it/annunci/84498546/
+tre castelli - faenza_000,115000,https://www.immobiliare.it/annunci/84357780/
+tre castelli - faenza_000,175000,https://www.immobiliare.it/annunci/78360851/
+tre castelli - faenza_000,180000,https://www.immobiliare.it/annunci/73712732/
+tre castelli - faenza_001,99000,https://www.immobiliare.it/annunci/83809778/
+tre castelli - faenza_001,165000,https://www.immobiliare.it/annunci/82340472/
+tre castelli - faenza_001,115000,https://www.immobiliare.it/annunci/82388256/
+tre castelli - faenza_001,120000,https://www.immobiliare.it/annunci/83294883/
+tre castelli - faenza_001,175000,https://www.immobiliare.it/annunci/81015981/
+tre castelli - faenza_001,129000,https://www.immobiliare.it/annunci/77671546/
+tre castelli - faenza_001,118000,https://www.immobiliare.it/annunci/80773419/
+tre castelli - faenza_010,230000,https://www.immobiliare.it/annunci/77356646/
+tre castelli - faenza_010,245000,https://www.immobiliare.it/annunci/84036164/
+tre castelli - faenza_100,260000,https://www.immobiliare.it/annunci/84380344/
+tre castelli - faenza_100,239000,https://www.immobiliare.it/annunci/81331781/
+tre castelli - faenza_101,280000,https://www.immobiliare.it/annunci/82584153/
+tre castelli - faenza_110,265000,https://www.immobiliare.it/annunci/82492418/
+tre castelli - faenza_110,265000,https://www.immobiliare.it/annunci/82342074/
+tre castelli - faenza_110,260000,https://www.immobiliare.it/annunci/84590664/
+tre castelli - faenza_110,265000,https://www.immobiliare.it/annunci/83869566/
+tre castelli - faenza_111,250000,https://www.immobiliare.it/annunci/84687312/
+cantalupa - san paolo_000,180000,https://www.immobiliare.it/annunci/82693657/
+cantalupa - san paolo_000,180000,https://www.immobiliare.it/annunci/84781880/
+cantalupa - san paolo_001,245000,https://www.immobiliare.it/annunci/84214566/
+cantalupa - san paolo_010,249000,https://www.immobiliare.it/annunci/79391463/
+cantalupa - san paolo_011,210000,https://www.immobiliare.it/annunci/82811021/
+cantalupa - san paolo_100,205000,https://www.immobiliare.it/annunci/84634802/
+cantalupa - san paolo_100,188000,https://www.immobiliare.it/annunci/81415523/
+cantalupa - san paolo_100,123000,https://www.immobiliare.it/annunci/83049397/
+cantalupa - san paolo_100,195000,https://www.immobiliare.it/annunci/83367315/
+cantalupa - san paolo_100,198000,https://www.immobiliare.it/annunci/80869143/
+cantalupa - san paolo_100,147000,https://www.immobiliare.it/annunci/84105652/
+cantalupa - san paolo_100,188000,https://www.immobiliare.it/annunci/84613154/
+cantalupa - san paolo_100,105000,https://www.immobiliare.it/annunci/83520805/
+cantalupa - san paolo_100,188000,https://www.immobiliare.it/annunci/82367750/
+cantalupa - san paolo_100,199000,https://www.immobiliare.it/annunci/84768840/
+cantalupa - san paolo_100,149000,https://www.immobiliare.it/annunci/84084136/
+cantalupa - san paolo_100,170000,https://www.immobiliare.it/annunci/84361268/
+cantalupa - san paolo_100,170000,https://www.immobiliare.it/annunci/82934741/
+cantalupa - san paolo_100,179000,https://www.immobiliare.it/annunci/84508344/
+cantalupa - san paolo_100,169000,https://www.immobiliare.it/annunci/81728814/
+cantalupa - san paolo_100,188000,https://www.immobiliare.it/annunci/83516473/
+cantalupa - san paolo_101,170000,https://www.immobiliare.it/annunci/83751369/
+cantalupa - san paolo_101,129000,https://www.immobiliare.it/annunci/84852910/
+cantalupa - san paolo_101,115000,https://www.immobiliare.it/annunci/84117980/
+cantalupa - san paolo_101,185000,https://www.immobiliare.it/annunci/81630806/
+cantalupa - san paolo_101,115000,https://www.immobiliare.it/annunci/82045574/
+cantalupa - san paolo_110,250000,https://www.immobiliare.it/annunci/84458732/
+cantalupa - san paolo_110,249000,https://www.immobiliare.it/annunci/82816273/
+cantalupa - san paolo_111,195000,https://www.immobiliare.it/annunci/81125779/
+cantalupa - san paolo_111,230000,https://www.immobiliare.it/annunci/84033946/
+pezzotti - meda_000,138000,https://www.immobiliare.it/annunci/80585079/
+pezzotti - meda_001,285000,https://www.immobiliare.it/annunci/83458667/
+famagosta_000,190000,https://www.immobiliare.it/annunci/83710957/
+famagosta_000,82000,https://www.immobiliare.it/annunci/84407404/
+famagosta_000,165000,https://www.immobiliare.it/annunci/84568212/
+famagosta_000,198000,https://www.immobiliare.it/annunci/82902145/
+famagosta_000,150000,https://www.immobiliare.it/annunci/83102457/
+famagosta_000,125000,https://www.immobiliare.it/annunci/83315615/
+famagosta_000,139000,https://www.immobiliare.it/annunci/82079152/
+famagosta_000,128000,https://www.immobiliare.it/annunci/83795264/
+famagosta_000,150000,https://www.immobiliare.it/annunci/83929440/
+famagosta_000,110000,https://www.immobiliare.it/annunci/83632787/
+famagosta_000,165000,https://www.immobiliare.it/annunci/84686510/
+famagosta_001,12000,https://www.immobiliare.it/annunci/84274594/
+famagosta_001,179000,https://www.immobiliare.it/annunci/83156147/
+famagosta_001,98000,https://www.immobiliare.it/annunci/83892500/
+famagosta_001,145000,https://www.immobiliare.it/annunci/82499904/
+famagosta_001,179000,https://www.immobiliare.it/annunci/80394857/
+famagosta_001,169000,https://www.immobiliare.it/annunci/84268492/
+famagosta_001,169000,https://www.immobiliare.it/annunci/83767941/
+famagosta_001,119000,https://www.immobiliare.it/annunci/83478017/
+famagosta_010,249000,https://www.immobiliare.it/annunci/83177977/
+famagosta_011,60000,https://www.immobiliare.it/annunci/82612989/
+famagosta_100,129900,https://www.immobiliare.it/annunci/84288728/
+famagosta_110,129900,https://www.immobiliare.it/annunci/84287120/
+barona_000,159000,https://www.immobiliare.it/annunci/81427455/
+barona_000,160000,https://www.immobiliare.it/annunci/83886126/
+barona_000,120000,https://www.immobiliare.it/annunci/84843692/
+barona_001,185000,https://www.immobiliare.it/annunci/83912108/
+barona_001,198000,https://www.immobiliare.it/annunci/83346743/
+barona_001,135000,https://www.immobiliare.it/annunci/83662171/
+barona_001,180000,https://www.immobiliare.it/annunci/84159974/
+barona_001,139000,https://www.immobiliare.it/annunci/84614264/
+barona_001,120000,https://www.immobiliare.it/annunci/84612874/
+barona_001,179000,https://www.immobiliare.it/annunci/81774840/
+barona_001,198000,https://www.immobiliare.it/annunci/83777105/
+barona_001,135000,https://www.immobiliare.it/annunci/83753021/
+barona_001,192000,https://www.immobiliare.it/annunci/78222052/
+barona_001,125000,https://www.immobiliare.it/annunci/84235312/
+barona_001,195000,https://www.immobiliare.it/annunci/84226884/
+barona_001,165000,https://www.immobiliare.it/annunci/81650590/
+barona_010,300000,https://www.immobiliare.it/annunci/84232716/
+barona_100,175000,https://www.immobiliare.it/annunci/84874486/
+barona_100,245000,https://www.immobiliare.it/annunci/84689768/
+ghisolfa - mac mahon_000,200000,https://www.immobiliare.it/annunci/78822867/
+ghisolfa - mac mahon_000,149000,https://www.immobiliare.it/annunci/80578083/
+ghisolfa - mac mahon_000,200000,https://www.immobiliare.it/annunci/83058923/
+ghisolfa - mac mahon_000,124000,https://www.immobiliare.it/annunci/83729165/
+ghisolfa - mac mahon_001,180000,https://www.immobiliare.it/annunci/81485079/
+ghisolfa - mac mahon_001,210000,https://www.immobiliare.it/annunci/84180176/
+ghisolfa - mac mahon_001,210000,https://www.immobiliare.it/annunci/83128329/
+ghisolfa - mac mahon_001,170000,https://www.immobiliare.it/annunci/84003410/
+ghisolfa - mac mahon_001,135000,https://www.immobiliare.it/annunci/79757349/
+ghisolfa - mac mahon_001,175000,https://www.immobiliare.it/annunci/84009530/
+ghisolfa - mac mahon_001,229000,https://www.immobiliare.it/annunci/84582672/
+ghisolfa - mac mahon_010,215000,https://www.immobiliare.it/annunci/83510917/
+ghisolfa - mac mahon_100,229000,https://www.immobiliare.it/annunci/84086480/
+ghisolfa - mac mahon_110,269000,https://www.immobiliare.it/annunci/77426668/
+ghisolfa - mac mahon_111,268000,https://www.immobiliare.it/annunci/81777282/
+cenisio_000,159000,https://www.immobiliare.it/annunci/83943984/
+cenisio_000,195000,https://www.immobiliare.it/annunci/84412660/
+cenisio_000,125000,https://www.immobiliare.it/annunci/78468903/
+cenisio_000,125000,https://www.immobiliare.it/annunci/82942395/
+cenisio_001,184000,https://www.immobiliare.it/annunci/84412082/
+cenisio_001,178000,https://www.immobiliare.it/annunci/84410344/
+cenisio_001,238000,https://www.immobiliare.it/annunci/83259421/
+cenisio_100,249000,https://www.immobiliare.it/annunci/84749212/
+portello - parco vittoria_000,230000,https://www.immobiliare.it/annunci/82824947/
+portello - parco vittoria_001,255000,https://www.immobiliare.it/annunci/84237882/
+portello - parco vittoria_100,280000,https://www.immobiliare.it/annunci/83721561/
+giambellino_000,170000,https://www.immobiliare.it/annunci/84734450/
+giambellino_000,188000,https://www.immobiliare.it/annunci/84398180/
+giambellino_000,195000,https://www.immobiliare.it/annunci/83369725/
+giambellino_000,39900,https://www.immobiliare.it/annunci/84887854/
+giambellino_000,140000,https://www.immobiliare.it/annunci/83071067/
+giambellino_000,145000,https://www.immobiliare.it/annunci/80148707/
+giambellino_000,195000,https://www.immobiliare.it/annunci/82285076/
+giambellino_000,118000,https://www.immobiliare.it/annunci/80993681/
+giambellino_000,149000,https://www.immobiliare.it/annunci/83295887/
+giambellino_001,121000,https://www.immobiliare.it/annunci/83862806/
+giambellino_001,157000,https://www.immobiliare.it/annunci/83750143/
+giambellino_001,90000,https://www.immobiliare.it/annunci/79969135/
+giambellino_001,135000,https://www.immobiliare.it/annunci/82682969/
+giambellino_001,140000,https://www.immobiliare.it/annunci/84377268/
+giambellino_001,115000,https://www.immobiliare.it/annunci/84872998/
+giambellino_001,165000,https://www.immobiliare.it/annunci/83103079/
+giambellino_001,147000,https://www.immobiliare.it/annunci/84384376/
+giambellino_001,199000,https://www.immobiliare.it/annunci/84654040/
+giambellino_001,200000,https://www.immobiliare.it/annunci/82951671/
+giambellino_001,139000,https://www.immobiliare.it/annunci/81227795/
+giambellino_001,169000,https://www.immobiliare.it/annunci/84221844/
+giambellino_001,199000,https://www.immobiliare.it/annunci/84415634/
+giambellino_001,199000,https://www.immobiliare.it/annunci/83711149/
+giambellino_001,195000,https://www.immobiliare.it/annunci/82018584/
+giambellino_001,179000,https://www.immobiliare.it/annunci/82524018/
+giambellino_001,185000,https://www.immobiliare.it/annunci/84269676/
+giambellino_001,185000,https://www.immobiliare.it/annunci/84298972/
+giambellino_001,200000,https://www.immobiliare.it/annunci/83720267/
+giambellino_001,175000,https://www.immobiliare.it/annunci/84361372/
+giambellino_001,179000,https://www.immobiliare.it/annunci/84870072/
+giambellino_001,139000,https://www.immobiliare.it/annunci/82315924/
+giambellino_001,115000,https://www.immobiliare.it/annunci/80682833/
+giambellino_001,195000,https://www.immobiliare.it/annunci/84616090/
+giambellino_010,249000,https://www.immobiliare.it/annunci/84483360/
+giambellino_100,298000,https://www.immobiliare.it/annunci/83657839/
+giambellino_101,240000,https://www.immobiliare.it/annunci/41542231/
+chiesa rossa_000,169000,https://www.immobiliare.it/annunci/80830395/
+chiesa rossa_000,156000,https://www.immobiliare.it/annunci/82933335/
+chiesa rossa_000,148000,https://www.immobiliare.it/annunci/82996065/
+chiesa rossa_001,135000,https://www.immobiliare.it/annunci/83718087/
+cermenate - abbiategrasso_000,180200,https://www.immobiliare.it/annunci/68297047/
+cermenate - abbiategrasso_001,229000,https://www.immobiliare.it/annunci/84562156/
+cermenate - abbiategrasso_001,229000,https://www.immobiliare.it/annunci/84029870/
+zara_000,139000,https://www.immobiliare.it/annunci/80713789/
+zara_000,135000,https://www.immobiliare.it/annunci/84030778/
+zara_001,210000,https://www.immobiliare.it/annunci/82718841/
+inganni_000,155000,https://www.immobiliare.it/annunci/79993413/
+inganni_000,155000,https://www.immobiliare.it/annunci/81384473/
+inganni_001,130000,https://www.immobiliare.it/annunci/82299900/
+inganni_001,140000,https://www.immobiliare.it/annunci/83366911/
+inganni_001,162000,https://www.immobiliare.it/annunci/84605880/
+inganni_001,147000,https://www.immobiliare.it/annunci/78002684/
+inganni_010,195000,https://www.immobiliare.it/annunci/83306257/
+inganni_011,285000,https://www.immobiliare.it/annunci/84653266/
+inganni_100,245000,https://www.immobiliare.it/annunci/84048702/
+inganni_110,250000,https://www.immobiliare.it/annunci/84613000/
+sempione_000,270000,https://www.immobiliare.it/annunci/81125719/
+sempione_000,255000,https://www.immobiliare.it/annunci/83792008/
+isola_000,205000,https://www.immobiliare.it/annunci/84218338/
+isola_000,150000,https://www.immobiliare.it/annunci/84082732/
+isola_000,192000,https://www.immobiliare.it/annunci/83659681/
+isola_001,286000,https://www.immobiliare.it/annunci/83685301/
+navigli - darsena_000,289000,https://www.immobiliare.it/annunci/83032421/
+corvetto_000,140000,https://www.immobiliare.it/annunci/84858412/
+corvetto_000,134000,https://www.immobiliare.it/annunci/82859645/
+corvetto_000,178000,https://www.immobiliare.it/annunci/84452882/
+corvetto_000,170000,https://www.immobiliare.it/annunci/83851476/
+corvetto_000,95000,https://www.immobiliare.it/annunci/69853952/
+corvetto_000,153000,https://www.immobiliare.it/annunci/83515531/
+corvetto_000,113000,https://www.immobiliare.it/annunci/84666740/
+corvetto_000,170000,https://www.immobiliare.it/annunci/82099834/
+corvetto_000,149000,https://www.immobiliare.it/annunci/78813723/
+corvetto_000,179000,https://www.immobiliare.it/annunci/82465442/
+corvetto_000,85000,https://www.immobiliare.it/annunci/83841334/
+corvetto_000,165000,https://www.immobiliare.it/annunci/81535217/
+corvetto_000,135000,https://www.immobiliare.it/annunci/81535245/
+corvetto_000,98000,https://www.immobiliare.it/annunci/84757120/
+corvetto_000,150000,https://www.immobiliare.it/annunci/81336635/
+corvetto_000,135000,https://www.immobiliare.it/annunci/84130464/
+corvetto_000,105000,https://www.immobiliare.it/annunci/81275129/
+corvetto_000,140000,https://www.immobiliare.it/annunci/84025068/
+corvetto_000,97000,https://www.immobiliare.it/annunci/84861574/
+corvetto_000,183000,https://www.immobiliare.it/annunci/80985523/
+corvetto_000,140000,https://www.immobiliare.it/annunci/82951233/
+corvetto_000,128000,https://www.immobiliare.it/annunci/83755251/
+corvetto_000,97000,https://www.immobiliare.it/annunci/84871284/
+corvetto_000,107000,https://www.immobiliare.it/annunci/83601115/
+corvetto_000,99000,https://www.immobiliare.it/annunci/84801914/
+corvetto_000,119000,https://www.immobiliare.it/annunci/82182096/
+corvetto_000,130000,https://www.immobiliare.it/annunci/84581886/
+corvetto_000,147000,https://www.immobiliare.it/annunci/84507446/
+corvetto_000,109000,https://www.immobiliare.it/annunci/83425335/
+corvetto_000,178000,https://www.immobiliare.it/annunci/84095458/
+corvetto_000,129000,https://www.immobiliare.it/annunci/84701452/
+corvetto_000,148000,https://www.immobiliare.it/annunci/80220751/
+corvetto_000,108000,https://www.immobiliare.it/annunci/78605763/
+corvetto_000,178000,https://www.immobiliare.it/annunci/84071218/
+corvetto_000,97000,https://www.immobiliare.it/annunci/84829898/
+corvetto_000,180000,https://www.immobiliare.it/annunci/81790608/
+corvetto_000,130000,https://www.immobiliare.it/annunci/84525782/
+corvetto_000,122000,https://www.immobiliare.it/annunci/83222429/
+corvetto_000,165000,https://www.immobiliare.it/annunci/84180610/
+corvetto_000,175000,https://www.immobiliare.it/annunci/84250900/
+corvetto_000,139000,https://www.immobiliare.it/annunci/84728080/
+corvetto_000,98000,https://www.immobiliare.it/annunci/84185582/
+corvetto_000,135000,https://www.immobiliare.it/annunci/78467675/
+corvetto_000,99000,https://www.immobiliare.it/annunci/83743901/
+corvetto_001,185000,https://www.immobiliare.it/annunci/84772504/
+corvetto_001,110000,https://www.immobiliare.it/annunci/81304293/
+corvetto_001,160000,https://www.immobiliare.it/annunci/84772502/
+corvetto_001,125000,https://www.immobiliare.it/annunci/83905382/
+corvetto_001,99000,https://www.immobiliare.it/annunci/83791006/
+corvetto_001,120000,https://www.immobiliare.it/annunci/84870724/
+corvetto_001,165000,https://www.immobiliare.it/annunci/73865362/
+corvetto_001,125000,https://www.immobiliare.it/annunci/84411536/
+corvetto_001,135000,https://www.immobiliare.it/annunci/84503868/
+corvetto_001,155000,https://www.immobiliare.it/annunci/84251784/
+corvetto_001,145000,https://www.immobiliare.it/annunci/81524165/
+corvetto_001,100000,https://www.immobiliare.it/annunci/83586059/
+corvetto_001,135000,https://www.immobiliare.it/annunci/74445902/
+corvetto_001,170000,https://www.immobiliare.it/annunci/84060200/
+corvetto_001,170000,https://www.immobiliare.it/annunci/84870694/
+corvetto_001,190000,https://www.immobiliare.it/annunci/84060658/
+corvetto_001,175000,https://www.immobiliare.it/annunci/84769668/
+corvetto_001,178000,https://www.immobiliare.it/annunci/83447371/
+corvetto_001,125000,https://www.immobiliare.it/annunci/83553101/
+corvetto_001,107000,https://www.immobiliare.it/annunci/83324797/
+corvetto_001,180000,https://www.immobiliare.it/annunci/77140032/
+corvetto_001,150000,https://www.immobiliare.it/annunci/84059920/
+corvetto_001,159000,https://www.immobiliare.it/annunci/80701821/
+corvetto_001,135000,https://www.immobiliare.it/annunci/73771084/
+corvetto_001,139000,https://www.immobiliare.it/annunci/83584099/
+corvetto_010,160000,https://www.immobiliare.it/annunci/83740037/
+corvetto_010,230000,https://www.immobiliare.it/annunci/84365458/
+corvetto_010,220000,https://www.immobiliare.it/annunci/81685576/
+corvetto_011,230000,https://www.immobiliare.it/annunci/84703490/
+corvetto_011,245000,https://www.immobiliare.it/annunci/83207065/
+corvetto_100,280000,https://www.immobiliare.it/annunci/83353387/
+corvetto_110,279000,https://www.immobiliare.it/annunci/83625041/
+corvetto_111,149000,https://www.immobiliare.it/annunci/84178362/
+corvetto_111,175000,https://www.immobiliare.it/annunci/84387650/
+bologna - sulmona_000,166000,https://www.immobiliare.it/annunci/80104213/
+bologna - sulmona_001,245000,https://www.immobiliare.it/annunci/83213859/
+paolo sarpi_000,200000,https://www.immobiliare.it/annunci/84631738/
+paolo sarpi_000,108000,https://www.immobiliare.it/annunci/82289050/
+paolo sarpi_000,185000,https://www.immobiliare.it/annunci/83900792/
+paolo sarpi_001,210000,https://www.immobiliare.it/annunci/84854084/
+paolo sarpi_001,170000,https://www.immobiliare.it/annunci/84355902/
+arco della pace_000,250000,https://www.immobiliare.it/annunci/80966019/
+molise - cuoco_000,299000,https://www.immobiliare.it/annunci/81228923/
+molise - cuoco_010,155000,https://www.immobiliare.it/annunci/83941442/
+molise - cuoco_100,280000,https://www.immobiliare.it/annunci/83684459/
+martini - insubria_000,235000,https://www.immobiliare.it/annunci/81799340/
+martini - insubria_000,240000,https://www.immobiliare.it/annunci/82507194/
+martini - insubria_001,160000,https://www.immobiliare.it/annunci/83867170/
+martini - insubria_001,149000,https://www.immobiliare.it/annunci/84235172/
+lodi - brenta_000,169000,https://www.immobiliare.it/annunci/83661501/
+lodi - brenta_001,179000,https://www.immobiliare.it/annunci/84635604/
+lodi - brenta_100,300000,https://www.immobiliare.it/annunci/82281646/
+cadore_000,290000,https://www.immobiliare.it/annunci/84627410/
+porta vittoria_000,205000,https://www.immobiliare.it/annunci/84581148/
+bande nere_000,185000,https://www.immobiliare.it/annunci/80804205/
+bande nere_000,200000,https://www.immobiliare.it/annunci/80264369/
+bande nere_000,115000,https://www.immobiliare.it/annunci/84293358/
+bande nere_000,165000,https://www.immobiliare.it/annunci/82333094/
+bande nere_000,205000,https://www.immobiliare.it/annunci/83747043/
+bande nere_000,189000,https://www.immobiliare.it/annunci/84255150/
+bande nere_001,220000,https://www.immobiliare.it/annunci/84652960/
+bande nere_001,210000,https://www.immobiliare.it/annunci/84413954/
+bande nere_001,235000,https://www.immobiliare.it/annunci/84048318/
+bande nere_001,240000,https://www.immobiliare.it/annunci/84683610/
+bande nere_001,238000,https://www.immobiliare.it/annunci/83184491/
+bande nere_001,240000,https://www.immobiliare.it/annunci/80963959/
+bande nere_100,79900,https://www.immobiliare.it/annunci/84299682/
+piazzale siena_000,197000,https://www.immobiliare.it/annunci/84338806/
+piazzale siena_010,230000,https://www.immobiliare.it/annunci/83287653/
+piazzale siena_100,130000,https://www.immobiliare.it/annunci/76123150/
+piazzale siena_100,176000,https://www.immobiliare.it/annunci/78984511/
+piazzale siena_100,191887,https://www.immobiliare.it/annunci/84199014/
+piazzale siena_100,214320,https://www.immobiliare.it/annunci/84203934/
+piazzale siena_100,130000,https://www.immobiliare.it/annunci/77982616/
+piazzale siena_100,171000,https://www.immobiliare.it/annunci/78984611/
+piazzale siena_100,214320,https://www.immobiliare.it/annunci/84204034/
+piazzale siena_100,199233,https://www.immobiliare.it/annunci/84203442/
+piazzale siena_100,191257,https://www.immobiliare.it/annunci/84203816/
+piazzale siena_100,220000,https://www.immobiliare.it/annunci/83267683/
+piazzale siena_101,195000,https://www.immobiliare.it/annunci/82709443/
+piazzale siena_101,165000,https://www.immobiliare.it/annunci/82652323/
+piazzale siena_101,220000,https://www.immobiliare.it/annunci/84293444/
+piazzale siena_101,230000,https://www.immobiliare.it/annunci/82324526/
+piazzale siena_101,189000,https://www.immobiliare.it/annunci/84829376/
+piazzale siena_101,200000,https://www.immobiliare.it/annunci/81863826/
+piazzale siena_101,225000,https://www.immobiliare.it/annunci/84198290/
+piazzale siena_101,225000,https://www.immobiliare.it/annunci/84198292/
+piazzale siena_101,225000,https://www.immobiliare.it/annunci/81356253/
+piazzale siena_101,220000,https://www.immobiliare.it/annunci/84868260/
+piazzale siena_101,218000,https://www.immobiliare.it/annunci/84726404/
+piazzale siena_110,169000,https://www.immobiliare.it/annunci/68380785/
+piazzale siena_111,285000,https://www.immobiliare.it/annunci/81417415/
+gambara_000,230000,https://www.immobiliare.it/annunci/84587218/
+gambara_000,140000,https://www.immobiliare.it/annunci/83262397/
+gambara_000,185000,https://www.immobiliare.it/annunci/80685351/
+gambara_000,240000,https://www.immobiliare.it/annunci/83753979/
+gambara_000,235000,https://www.immobiliare.it/annunci/84205970/
+gambara_000,235000,https://www.immobiliare.it/annunci/84572132/
+gambara_000,165000,https://www.immobiliare.it/annunci/84629732/
+gambara_000,249000,https://www.immobiliare.it/annunci/83791564/
+gambara_001,210000,https://www.immobiliare.it/annunci/84006234/
+gambara_001,185000,https://www.immobiliare.it/annunci/83481515/
+gambara_001,185000,https://www.immobiliare.it/annunci/83480925/
+gambara_100,285000,https://www.immobiliare.it/annunci/84412404/
+gambara_101,265000,https://www.immobiliare.it/annunci/84027302/
+gambara_101,265000,https://www.immobiliare.it/annunci/83479831/
+gambara_101,265000,https://www.immobiliare.it/annunci/81872692/
+gambara_101,265000,https://www.immobiliare.it/annunci/83745087/
+gambara_101,265000,https://www.immobiliare.it/annunci/84200282/
+primaticcio_000,170000,https://www.immobiliare.it/annunci/84508332/
+primaticcio_000,235000,https://www.immobiliare.it/annunci/81682452/
+primaticcio_000,198000,https://www.immobiliare.it/annunci/83286387/
+primaticcio_000,215000,https://www.immobiliare.it/annunci/83420517/
+primaticcio_001,150000,https://www.immobiliare.it/annunci/81212429/
+primaticcio_001,175000,https://www.immobiliare.it/annunci/83230963/
+primaticcio_001,132000,https://www.immobiliare.it/annunci/80810483/
+primaticcio_001,150000,https://www.immobiliare.it/annunci/80709293/
+primaticcio_100,210000,https://www.immobiliare.it/annunci/82424876/
+primaticcio_101,250000,https://www.immobiliare.it/annunci/81455191/
+tripoli - soderini_000,225000,https://www.immobiliare.it/annunci/81223977/
+lorenteggio_000,169000,https://www.immobiliare.it/annunci/82637649/
+lorenteggio_000,199000,https://www.immobiliare.it/annunci/84523460/
+lorenteggio_000,115000,https://www.immobiliare.it/annunci/84701872/
+lorenteggio_001,145000,https://www.immobiliare.it/annunci/84764760/
+lorenteggio_001,205000,https://www.immobiliare.it/annunci/80706313/
+lorenteggio_001,190000,https://www.immobiliare.it/annunci/84032310/
+bisceglie_000,206460,https://www.immobiliare.it/annunci/84383190/
+bisceglie_100,300000,https://www.immobiliare.it/annunci/83899224/
+san siro_000,290000,https://www.immobiliare.it/annunci/83925166/
+san siro_001,250000,https://www.immobiliare.it/annunci/79825725/
+frua_000,280000,https://www.immobiliare.it/annunci/83535383/
+baggio_000,210000,https://www.immobiliare.it/annunci/81657294/
